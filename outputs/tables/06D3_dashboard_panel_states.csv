@@ -1,0 +1,1458 @@
+﻿Mã,Tên công ty,Ngành ICB - cấp 1,Ngành ICB - cấp 2,Ngành ICB - cấp 3,Ngành ICB - cấp 4,Năm,Financial_State_Rule,Pass_Ratio,Company_Label
+AAA,An Phát Bioplastics,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,High_Risk,0.0,AAA - An Phát Bioplastics
+AAA,An Phát Bioplastics,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,At_Risk,0.25,AAA - An Phát Bioplastics
+AAA,An Phát Bioplastics,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,High_Risk,0.0,AAA - An Phát Bioplastics
+AAA,An Phát Bioplastics,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,High_Risk,0.0,AAA - An Phát Bioplastics
+AAA,An Phát Bioplastics,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,At_Risk,0.25,AAA - An Phát Bioplastics
+AAM,Thủy sản Mekong,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,Stable,0.5,AAM - Thủy sản Mekong
+AAM,Thủy sản Mekong,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Stable,0.5,AAM - Thủy sản Mekong
+AAM,Thủy sản Mekong,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,AAM - Thủy sản Mekong
+AAM,Thủy sản Mekong,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Stable,0.5,AAM - Thủy sản Mekong
+AAM,Thủy sản Mekong,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,AAM - Thủy sản Mekong
+AAT,Tập đoàn Tiên Sơn Thanh Hóa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,At_Risk,0.25,AAT - Tập đoàn Tiên Sơn Thanh Hóa
+AAT,Tập đoàn Tiên Sơn Thanh Hóa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,Stable,0.5,AAT - Tập đoàn Tiên Sơn Thanh Hóa
+AAT,Tập đoàn Tiên Sơn Thanh Hóa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Stable,0.5,AAT - Tập đoàn Tiên Sơn Thanh Hóa
+AAT,Tập đoàn Tiên Sơn Thanh Hóa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,At_Risk,0.25,AAT - Tập đoàn Tiên Sơn Thanh Hóa
+AAT,Tập đoàn Tiên Sơn Thanh Hóa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,High_Risk,0.0,AAT - Tập đoàn Tiên Sơn Thanh Hóa
+ABR,Đầu tư Nhãn Hiệu Việt,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2020,Healthy,0.75,ABR - Đầu tư Nhãn Hiệu Việt
+ABR,Đầu tư Nhãn Hiệu Việt,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2021,Stable,0.5,ABR - Đầu tư Nhãn Hiệu Việt
+ABR,Đầu tư Nhãn Hiệu Việt,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2022,Stable,0.5,ABR - Đầu tư Nhãn Hiệu Việt
+ABR,Đầu tư Nhãn Hiệu Việt,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2023,Stable,0.5,ABR - Đầu tư Nhãn Hiệu Việt
+ABR,Đầu tư Nhãn Hiệu Việt,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2024,At_Risk,0.25,ABR - Đầu tư Nhãn Hiệu Việt
+ABS,DV Nông nghiệp Bình Thuận,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,Stable,0.5,ABS - DV Nông nghiệp Bình Thuận
+ABS,DV Nông nghiệp Bình Thuận,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Healthy,0.75,ABS - DV Nông nghiệp Bình Thuận
+ABS,DV Nông nghiệp Bình Thuận,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,ABS - DV Nông nghiệp Bình Thuận
+ABS,DV Nông nghiệp Bình Thuận,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,High_Risk,0.0,ABS - DV Nông nghiệp Bình Thuận
+ABS,DV Nông nghiệp Bình Thuận,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Stable,0.5,ABS - DV Nông nghiệp Bình Thuận
+ABT,Thủy sản Bến Tre,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,ABT - Thủy sản Bến Tre
+ABT,Thủy sản Bến Tre,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,At_Risk,0.25,ABT - Thủy sản Bến Tre
+ABT,Thủy sản Bến Tre,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,ABT - Thủy sản Bến Tre
+ABT,Thủy sản Bến Tre,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Stable,0.5,ABT - Thủy sản Bến Tre
+ABT,Thủy sản Bến Tre,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,Stable,0.5,ABT - Thủy sản Bến Tre
+ACC,Đầu tư và XD Bình Dương ACC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,ACC - Đầu tư và XD Bình Dương ACC
+ACC,Đầu tư và XD Bình Dương ACC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,High_Risk,0.0,ACC - Đầu tư và XD Bình Dương ACC
+ACC,Đầu tư và XD Bình Dương ACC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,At_Risk,0.25,ACC - Đầu tư và XD Bình Dương ACC
+ACC,Đầu tư và XD Bình Dương ACC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,High_Risk,0.0,ACC - Đầu tư và XD Bình Dương ACC
+ACC,Đầu tư và XD Bình Dương ACC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,At_Risk,0.25,ACC - Đầu tư và XD Bình Dương ACC
+ACG,Gỗ An Cường,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2020,Healthy,0.75,ACG - Gỗ An Cường
+ACG,Gỗ An Cường,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2021,Stable,0.5,ACG - Gỗ An Cường
+ACG,Gỗ An Cường,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2022,At_Risk,0.25,ACG - Gỗ An Cường
+ACG,Gỗ An Cường,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2023,Stable,0.5,ACG - Gỗ An Cường
+ACG,Gỗ An Cường,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2024,Stable,0.5,ACG - Gỗ An Cường
+ACL,Thủy sản CL An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,High_Risk,0.0,ACL - Thủy sản CL An Giang
+ACL,Thủy sản CL An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,At_Risk,0.25,ACL - Thủy sản CL An Giang
+ACL,Thủy sản CL An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,ACL - Thủy sản CL An Giang
+ACL,Thủy sản CL An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,ACL - Thủy sản CL An Giang
+ACL,Thủy sản CL An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,ACL - Thủy sản CL An Giang
+ADG,Clever Group,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông,2020,Healthy,0.75,ADG - Clever Group
+ADG,Clever Group,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông,2021,Healthy,0.75,ADG - Clever Group
+ADG,Clever Group,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông,2022,Healthy,0.75,ADG - Clever Group
+ADG,Clever Group,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông,2023,At_Risk,0.25,ADG - Clever Group
+ADG,Clever Group,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông,2024,High_Risk,0.0,ADG - Clever Group
+ADP,Sơn Á Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,1.0,ADP - Sơn Á Đông
+ADP,Sơn Á Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,1.0,ADP - Sơn Á Đông
+ADP,Sơn Á Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,0.75,ADP - Sơn Á Đông
+ADP,Sơn Á Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,ADP - Sơn Á Đông
+ADP,Sơn Á Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,0.75,ADP - Sơn Á Đông
+ADS,Dệt sợi DAMSAN,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,High_Risk,0.0,ADS - Dệt sợi DAMSAN
+ADS,Dệt sợi DAMSAN,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,At_Risk,0.25,ADS - Dệt sợi DAMSAN
+ADS,Dệt sợi DAMSAN,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,At_Risk,0.25,ADS - Dệt sợi DAMSAN
+ADS,Dệt sợi DAMSAN,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,At_Risk,0.25,ADS - Dệt sợi DAMSAN
+ADS,Dệt sợi DAMSAN,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,High_Risk,0.0,ADS - Dệt sợi DAMSAN
+AGM,XNK An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,Stable,0.5,AGM - XNK An Giang
+AGM,XNK An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,At_Risk,0.25,AGM - XNK An Giang
+AGM,XNK An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,At_Risk,0.25,AGM - XNK An Giang
+AGM,XNK An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,High_Risk,0.0,AGM - XNK An Giang
+AGM,XNK An Giang,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,At_Risk,0.25,AGM - XNK An Giang
+ANV,Thủy sản Nam Việt,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,ANV - Thủy sản Nam Việt
+ANV,Thủy sản Nam Việt,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,High_Risk,0.0,ANV - Thủy sản Nam Việt
+ANV,Thủy sản Nam Việt,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,ANV - Thủy sản Nam Việt
+ANV,Thủy sản Nam Việt,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,ANV - Thủy sản Nam Việt
+ANV,Thủy sản Nam Việt,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,ANV - Thủy sản Nam Việt
+APC,Chiếu xạ An Phú,Dược phẩm và Y tế,Y tế,Dược phẩm,Công nghệ sinh học,2020,Stable,0.5,APC - Chiếu xạ An Phú
+APC,Chiếu xạ An Phú,Dược phẩm và Y tế,Y tế,Dược phẩm,Công nghệ sinh học,2021,Stable,0.5,APC - Chiếu xạ An Phú
+APC,Chiếu xạ An Phú,Dược phẩm và Y tế,Y tế,Dược phẩm,Công nghệ sinh học,2022,At_Risk,0.25,APC - Chiếu xạ An Phú
+APH,Tập đoàn An Phát Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2020,At_Risk,0.25,APH - Tập đoàn An Phát Holdings
+APH,Tập đoàn An Phát Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2021,Stable,0.5,APH - Tập đoàn An Phát Holdings
+APH,Tập đoàn An Phát Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2022,Stable,0.5,APH - Tập đoàn An Phát Holdings
+APH,Tập đoàn An Phát Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2023,At_Risk,0.25,APH - Tập đoàn An Phát Holdings
+APH,Tập đoàn An Phát Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2024,Stable,0.5,APH - Tập đoàn An Phát Holdings
+ASG,Tập đoàn ASG,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Stable,0.5,ASG - Tập đoàn ASG
+ASG,Tập đoàn ASG,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,At_Risk,0.25,ASG - Tập đoàn ASG
+ASG,Tập đoàn ASG,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,At_Risk,0.25,ASG - Tập đoàn ASG
+ASG,Tập đoàn ASG,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,High_Risk,0.0,ASG - Tập đoàn ASG
+ASG,Tập đoàn ASG,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,At_Risk,0.25,ASG - Tập đoàn ASG
+ASM,Tập đoàn Sao Mai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,High_Risk,0.0,ASM - Tập đoàn Sao Mai
+ASM,Tập đoàn Sao Mai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,High_Risk,0.0,ASM - Tập đoàn Sao Mai
+ASM,Tập đoàn Sao Mai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,At_Risk,0.25,ASM - Tập đoàn Sao Mai
+ASM,Tập đoàn Sao Mai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,ASM - Tập đoàn Sao Mai
+ASM,Tập đoàn Sao Mai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,ASM - Tập đoàn Sao Mai
+ASP,Dầu khí An Pha,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,At_Risk,0.25,ASP - Dầu khí An Pha
+ASP,Dầu khí An Pha,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,At_Risk,0.25,ASP - Dầu khí An Pha
+ASP,Dầu khí An Pha,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,At_Risk,0.25,ASP - Dầu khí An Pha
+ASP,Dầu khí An Pha,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,At_Risk,0.25,ASP - Dầu khí An Pha
+ASP,Dầu khí An Pha,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,At_Risk,0.25,ASP - Dầu khí An Pha
+AST,Dịch vụ Hàng không Taseco,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,Stable,0.5,AST - Dịch vụ Hàng không Taseco
+AST,Dịch vụ Hàng không Taseco,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,At_Risk,0.25,AST - Dịch vụ Hàng không Taseco
+AST,Dịch vụ Hàng không Taseco,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,AST - Dịch vụ Hàng không Taseco
+AST,Dịch vụ Hàng không Taseco,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,Stable,0.5,AST - Dịch vụ Hàng không Taseco
+AST,Dịch vụ Hàng không Taseco,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,Stable,0.5,AST - Dịch vụ Hàng không Taseco
+BAF,Nông nghiệp BAF Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,BAF - Nông nghiệp BAF Việt Nam
+BAF,Nông nghiệp BAF Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Stable,0.5,BAF - Nông nghiệp BAF Việt Nam
+BAF,Nông nghiệp BAF Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,BAF - Nông nghiệp BAF Việt Nam
+BAF,Nông nghiệp BAF Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,High_Risk,0.0,BAF - Nông nghiệp BAF Việt Nam
+BAF,Nông nghiệp BAF Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,High_Risk,0.0,BAF - Nông nghiệp BAF Việt Nam
+BBC,Bánh kẹo BIBICA,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,At_Risk,0.25,BBC - Bánh kẹo BIBICA
+BBC,Bánh kẹo BIBICA,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,At_Risk,0.25,BBC - Bánh kẹo BIBICA
+BBC,Bánh kẹo BIBICA,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,Stable,0.5,BBC - Bánh kẹo BIBICA
+BBC,Bánh kẹo BIBICA,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,At_Risk,0.25,BBC - Bánh kẹo BIBICA
+BBC,Bánh kẹo BIBICA,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,Stable,0.5,BBC - Bánh kẹo BIBICA
+BCE,XD và GT Bình Dương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,BCE - XD và GT Bình Dương
+BCE,XD và GT Bình Dương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,BCE - XD và GT Bình Dương
+BCE,XD và GT Bình Dương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,BCE - XD và GT Bình Dương
+BCE,XD và GT Bình Dương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,BCE - XD và GT Bình Dương
+BCE,XD và GT Bình Dương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,BCE - XD và GT Bình Dương
+BFC,Phân bón Bình Điền,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,BFC - Phân bón Bình Điền
+BFC,Phân bón Bình Điền,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,Stable,0.5,BFC - Phân bón Bình Điền
+BFC,Phân bón Bình Điền,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,At_Risk,0.25,BFC - Phân bón Bình Điền
+BFC,Phân bón Bình Điền,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,At_Risk,0.25,BFC - Phân bón Bình Điền
+BFC,Phân bón Bình Điền,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Healthy,0.75,BFC - Phân bón Bình Điền
+BHN,HABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2020,Stable,0.5,BHN - HABECO
+BHN,HABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2021,At_Risk,0.25,BHN - HABECO
+BHN,HABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2022,Healthy,1.0,BHN - HABECO
+BHN,HABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2023,Healthy,1.0,BHN - HABECO
+BHN,HABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2024,Healthy,1.0,BHN - HABECO
+BKG,Đầu tư BKG Việt Nam,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2020,Stable,0.5,BKG - Đầu tư BKG Việt Nam
+BKG,Đầu tư BKG Việt Nam,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2021,Stable,0.5,BKG - Đầu tư BKG Việt Nam
+BKG,Đầu tư BKG Việt Nam,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2022,Stable,0.5,BKG - Đầu tư BKG Việt Nam
+BKG,Đầu tư BKG Việt Nam,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2023,Stable,0.5,BKG - Đầu tư BKG Việt Nam
+BKG,Đầu tư BKG Việt Nam,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2024,Stable,0.5,BKG - Đầu tư BKG Việt Nam
+BMC,Khoáng sản Bình Định,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2020,Healthy,0.75,BMC - Khoáng sản Bình Định
+BMC,Khoáng sản Bình Định,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2021,Stable,0.5,BMC - Khoáng sản Bình Định
+BMC,Khoáng sản Bình Định,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2022,Healthy,0.75,BMC - Khoáng sản Bình Định
+BMC,Khoáng sản Bình Định,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2023,Stable,0.5,BMC - Khoáng sản Bình Định
+BMC,Khoáng sản Bình Định,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2024,Healthy,0.75,BMC - Khoáng sản Bình Định
+BMP,Nhựa Bình Minh,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,1.0,BMP - Nhựa Bình Minh
+BMP,Nhựa Bình Minh,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,1.0,BMP - Nhựa Bình Minh
+BMP,Nhựa Bình Minh,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,1.0,BMP - Nhựa Bình Minh
+BMP,Nhựa Bình Minh,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Healthy,0.75,BMP - Nhựa Bình Minh
+BMP,Nhựa Bình Minh,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,1.0,BMP - Nhựa Bình Minh
+BRC,Cao su Bến Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Stable,0.5,BRC - Cao su Bến Thành
+BRC,Cao su Bến Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,BRC - Cao su Bến Thành
+BRC,Cao su Bến Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,BRC - Cao su Bến Thành
+BRC,Cao su Bến Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,BRC - Cao su Bến Thành
+BRC,Cao su Bến Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Healthy,0.75,BRC - Cao su Bến Thành
+BTP,Nhiệt điện Bà Rịa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Stable,0.5,BTP - Nhiệt điện Bà Rịa
+BTP,Nhiệt điện Bà Rịa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Stable,0.5,BTP - Nhiệt điện Bà Rịa
+BTP,Nhiệt điện Bà Rịa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,BTP - Nhiệt điện Bà Rịa
+BTP,Nhiệt điện Bà Rịa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,BTP - Nhiệt điện Bà Rịa
+BTP,Nhiệt điện Bà Rịa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,BTP - Nhiệt điện Bà Rịa
+BTT,TM - DV Bến Thành,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2020,Stable,0.5,BTT - TM - DV Bến Thành
+BTT,TM - DV Bến Thành,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2021,At_Risk,0.25,BTT - TM - DV Bến Thành
+BTT,TM - DV Bến Thành,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2022,At_Risk,0.25,BTT - TM - DV Bến Thành
+BTT,TM - DV Bến Thành,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2023,Stable,0.5,BTT - TM - DV Bến Thành
+BTT,TM - DV Bến Thành,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2024,At_Risk,0.25,BTT - TM - DV Bến Thành
+BWE,Nước - Môi trường Bình Dương,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2020,At_Risk,0.25,BWE - Nước - Môi trường Bình Dương
+BWE,Nước - Môi trường Bình Dương,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2021,At_Risk,0.25,BWE - Nước - Môi trường Bình Dương
+BWE,Nước - Môi trường Bình Dương,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2022,At_Risk,0.25,BWE - Nước - Môi trường Bình Dương
+BWE,Nước - Môi trường Bình Dương,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2023,High_Risk,0.0,BWE - Nước - Môi trường Bình Dương
+BWE,Nước - Môi trường Bình Dương,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2024,Stable,0.5,BWE - Nước - Môi trường Bình Dương
+C32,CIC39,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,C32 - CIC39
+C32,CIC39,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Stable,0.5,C32 - CIC39
+C32,CIC39,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,At_Risk,0.25,C32 - CIC39
+C32,CIC39,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,High_Risk,0.0,C32 - CIC39
+C32,CIC39,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Stable,0.5,C32 - CIC39
+C47,Xây dựng 47,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,C47 - Xây dựng 47
+C47,Xây dựng 47,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,C47 - Xây dựng 47
+C47,Xây dựng 47,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,C47 - Xây dựng 47
+C47,Xây dựng 47,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,C47 - Xây dựng 47
+C47,Xây dựng 47,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,C47 - Xây dựng 47
+CAV,Dây cáp điện Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2020,Stable,0.5,CAV - Dây cáp điện Việt Nam
+CAV,Dây cáp điện Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2021,At_Risk,0.25,CAV - Dây cáp điện Việt Nam
+CAV,Dây cáp điện Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2022,Stable,0.5,CAV - Dây cáp điện Việt Nam
+CCI,CIDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Healthy,0.75,CCI - CIDICO
+CCI,CIDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,At_Risk,0.25,CCI - CIDICO
+CCI,CIDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,At_Risk,0.25,CCI - CIDICO
+CCI,CIDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,At_Risk,0.25,CCI - CIDICO
+CCI,CIDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,At_Risk,0.25,CCI - CIDICO
+CDC,Chương Dương Corp,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,CDC - Chương Dương Corp
+CDC,Chương Dương Corp,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,CDC - Chương Dương Corp
+CDC,Chương Dương Corp,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,CDC - Chương Dương Corp
+CDC,Chương Dương Corp,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,CDC - Chương Dương Corp
+CDC,Chương Dương Corp,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,CDC - Chương Dương Corp
+CHP,Thủy điện Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Stable,0.5,CHP - Thủy điện Miền Trung
+CHP,Thủy điện Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,At_Risk,0.25,CHP - Thủy điện Miền Trung
+CHP,Thủy điện Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,CHP - Thủy điện Miền Trung
+CHP,Thủy điện Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,CHP - Thủy điện Miền Trung
+CHP,Thủy điện Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,CHP - Thủy điện Miền Trung
+CIG,Xây dựng COMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,CIG - Xây dựng COMA 18
+CIG,Xây dựng COMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,CIG - Xây dựng COMA 18
+CIG,Xây dựng COMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,CIG - Xây dựng COMA 18
+CIG,Xây dựng COMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,CIG - Xây dựng COMA 18
+CIG,Xây dựng COMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,CIG - Xây dựng COMA 18
+CII,Hạ tầng Kỹ thuật TP.HCM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,CII - Hạ tầng Kỹ thuật TP.HCM
+CII,Hạ tầng Kỹ thuật TP.HCM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,CII - Hạ tầng Kỹ thuật TP.HCM
+CII,Hạ tầng Kỹ thuật TP.HCM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,CII - Hạ tầng Kỹ thuật TP.HCM
+CII,Hạ tầng Kỹ thuật TP.HCM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,CII - Hạ tầng Kỹ thuật TP.HCM
+CII,Hạ tầng Kỹ thuật TP.HCM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,CII - Hạ tầng Kỹ thuật TP.HCM
+CLC,Thuốc lá Cát Lợi,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá,2020,Healthy,1.0,CLC - Thuốc lá Cát Lợi
+CLC,Thuốc lá Cát Lợi,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá,2021,Healthy,1.0,CLC - Thuốc lá Cát Lợi
+CLC,Thuốc lá Cát Lợi,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá,2022,Healthy,1.0,CLC - Thuốc lá Cát Lợi
+CLC,Thuốc lá Cát Lợi,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá,2023,Healthy,0.75,CLC - Thuốc lá Cát Lợi
+CLC,Thuốc lá Cát Lợi,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá,2024,Stable,0.5,CLC - Thuốc lá Cát Lợi
+CLL,Cảng Cát Lái,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Healthy,0.75,CLL - Cảng Cát Lái
+CLL,Cảng Cát Lái,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Healthy,0.75,CLL - Cảng Cát Lái
+CLL,Cảng Cát Lái,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Healthy,0.75,CLL - Cảng Cát Lái
+CLL,Cảng Cát Lái,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,Stable,0.5,CLL - Cảng Cát Lái
+CLL,Cảng Cát Lái,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,0.75,CLL - Cảng Cát Lái
+CLW,Cấp nước Chợ Lớn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2020,Healthy,0.75,CLW - Cấp nước Chợ Lớn
+CLW,Cấp nước Chợ Lớn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2021,Stable,0.5,CLW - Cấp nước Chợ Lớn
+CLW,Cấp nước Chợ Lớn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2022,Stable,0.5,CLW - Cấp nước Chợ Lớn
+CLW,Cấp nước Chợ Lớn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2023,Stable,0.5,CLW - Cấp nước Chợ Lớn
+CLW,Cấp nước Chợ Lớn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2024,Stable,0.5,CLW - Cấp nước Chợ Lớn
+CMG,Tập đoàn Công nghệ CMC,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính,2020,,,CMG - Tập đoàn Công nghệ CMC
+CMG,Tập đoàn Công nghệ CMC,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính,2021,,,CMG - Tập đoàn Công nghệ CMC
+CMG,Tập đoàn Công nghệ CMC,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính,2022,,,CMG - Tập đoàn Công nghệ CMC
+CMG,Tập đoàn Công nghệ CMC,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính,2023,,,CMG - Tập đoàn Công nghệ CMC
+CMG,Tập đoàn Công nghệ CMC,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính,2024,,,CMG - Tập đoàn Công nghệ CMC
+CMV,Thương nghiệp Cà Mau,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2020,Stable,0.5,CMV - Thương nghiệp Cà Mau
+CMV,Thương nghiệp Cà Mau,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2021,Healthy,0.75,CMV - Thương nghiệp Cà Mau
+CMV,Thương nghiệp Cà Mau,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2022,At_Risk,0.25,CMV - Thương nghiệp Cà Mau
+CMV,Thương nghiệp Cà Mau,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2023,At_Risk,0.25,CMV - Thương nghiệp Cà Mau
+CMV,Thương nghiệp Cà Mau,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2024,At_Risk,0.25,CMV - Thương nghiệp Cà Mau
+CMX,CAMIMEX Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,High_Risk,0.0,CMX - CAMIMEX Group
+CMX,CAMIMEX Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,At_Risk,0.25,CMX - CAMIMEX Group
+CMX,CAMIMEX Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,At_Risk,0.25,CMX - CAMIMEX Group
+CMX,CAMIMEX Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,CMX - CAMIMEX Group
+CMX,CAMIMEX Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,CMX - CAMIMEX Group
+CNG,CNG Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Stable,0.5,CNG - CNG Việt Nam
+CNG,CNG Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,Stable,0.5,CNG - CNG Việt Nam
+CNG,CNG Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,Stable,0.5,CNG - CNG Việt Nam
+CNG,CNG Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,Healthy,0.75,CNG - CNG Việt Nam
+CNG,CNG Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,Stable,0.5,CNG - CNG Việt Nam
+COM,Vật tư Xăng dầu,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,Stable,0.5,COM - Vật tư Xăng dầu
+COM,Vật tư Xăng dầu,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Stable,0.5,COM - Vật tư Xăng dầu
+COM,Vật tư Xăng dầu,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,COM - Vật tư Xăng dầu
+COM,Vật tư Xăng dầu,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,Healthy,0.75,COM - Vật tư Xăng dầu
+COM,Vật tư Xăng dầu,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,Stable,0.5,COM - Vật tư Xăng dầu
+CRC,Create Capital Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,At_Risk,0.25,CRC - Create Capital Việt Nam
+CRC,Create Capital Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,At_Risk,0.25,CRC - Create Capital Việt Nam
+CRC,Create Capital Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,At_Risk,0.25,CRC - Create Capital Việt Nam
+CRC,Create Capital Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,High_Risk,0.0,CRC - Create Capital Việt Nam
+CRC,Create Capital Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,At_Risk,0.25,CRC - Create Capital Việt Nam
+CSM,Cao su Miền Nam,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2020,At_Risk,0.25,CSM - Cao su Miền Nam
+CSM,Cao su Miền Nam,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2021,At_Risk,0.25,CSM - Cao su Miền Nam
+CSM,Cao su Miền Nam,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2022,At_Risk,0.25,CSM - Cao su Miền Nam
+CSM,Cao su Miền Nam,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2023,At_Risk,0.25,CSM - Cao su Miền Nam
+CSM,Cao su Miền Nam,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2024,At_Risk,0.25,CSM - Cao su Miền Nam
+CSV,Hóa chất Cơ bản miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Healthy,0.75,CSV - Hóa chất Cơ bản miền Nam
+CSV,Hóa chất Cơ bản miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,Stable,0.5,CSV - Hóa chất Cơ bản miền Nam
+CSV,Hóa chất Cơ bản miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,Healthy,0.75,CSV - Hóa chất Cơ bản miền Nam
+CSV,Hóa chất Cơ bản miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,Stable,0.5,CSV - Hóa chất Cơ bản miền Nam
+CSV,Hóa chất Cơ bản miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Healthy,0.75,CSV - Hóa chất Cơ bản miền Nam
+CTD,Xây dựng Coteccons,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,CTD - Xây dựng Coteccons
+CTD,Xây dựng Coteccons,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,CTD - Xây dựng Coteccons
+CTD,Xây dựng Coteccons,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,CTD - Xây dựng Coteccons
+CTD,Xây dựng Coteccons,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,CTD - Xây dựng Coteccons
+CTD,Xây dựng Coteccons,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,CTD - Xây dựng Coteccons
+CTF,City Auto,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2020,At_Risk,0.25,CTF - City Auto
+CTF,City Auto,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2021,At_Risk,0.25,CTF - City Auto
+CTF,City Auto,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2022,Stable,0.5,CTF - City Auto
+CTF,City Auto,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2023,At_Risk,0.25,CTF - City Auto
+CTF,City Auto,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2024,Stable,0.5,CTF - City Auto
+CTI,Cường Thuận IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,CTI - Cường Thuận IDICO
+CTI,Cường Thuận IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,CTI - Cường Thuận IDICO
+CTI,Cường Thuận IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,CTI - Cường Thuận IDICO
+CTI,Cường Thuận IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,CTI - Cường Thuận IDICO
+CTI,Cường Thuận IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,CTI - Cường Thuận IDICO
+CTR,Công trình Viettel,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,CTR - Công trình Viettel
+CTR,Công trình Viettel,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Stable,0.5,CTR - Công trình Viettel
+CTR,Công trình Viettel,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Stable,0.5,CTR - Công trình Viettel
+CTR,Công trình Viettel,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,Stable,0.5,CTR - Công trình Viettel
+CTR,Công trình Viettel,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,CTR - Công trình Viettel
+CVT,CMC JSC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,0.75,CVT - CMC JSC
+CVT,CMC JSC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,High_Risk,0.0,CVT - CMC JSC
+CVT,CMC JSC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,High_Risk,0.0,CVT - CMC JSC
+CVT,CMC JSC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,High_Risk,0.0,CVT - CMC JSC
+CVT,CMC JSC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,High_Risk,0.0,CVT - CMC JSC
+DAG,TĐ Nhựa Đông Á,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,High_Risk,0.0,DAG - TĐ Nhựa Đông Á
+DAG,TĐ Nhựa Đông Á,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,At_Risk,0.25,DAG - TĐ Nhựa Đông Á
+DAG,TĐ Nhựa Đông Á,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,High_Risk,0.0,DAG - TĐ Nhựa Đông Á
+DAH,Tập đoàn Khách sạn Đông Á,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2020,At_Risk,0.25,DAH - Tập đoàn Khách sạn Đông Á
+DAH,Tập đoàn Khách sạn Đông Á,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2021,Stable,0.5,DAH - Tập đoàn Khách sạn Đông Á
+DAH,Tập đoàn Khách sạn Đông Á,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2022,Stable,0.5,DAH - Tập đoàn Khách sạn Đông Á
+DAH,Tập đoàn Khách sạn Đông Á,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2023,At_Risk,0.25,DAH - Tập đoàn Khách sạn Đông Á
+DAH,Tập đoàn Khách sạn Đông Á,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2024,Stable,0.5,DAH - Tập đoàn Khách sạn Đông Á
+DAT,ĐT Du lịch và PT Thủy sản,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,DAT - ĐT Du lịch và PT Thủy sản
+DAT,ĐT Du lịch và PT Thủy sản,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,At_Risk,0.25,DAT - ĐT Du lịch và PT Thủy sản
+DAT,ĐT Du lịch và PT Thủy sản,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,DAT - ĐT Du lịch và PT Thủy sản
+DAT,ĐT Du lịch và PT Thủy sản,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Stable,0.5,DAT - ĐT Du lịch và PT Thủy sản
+DAT,ĐT Du lịch và PT Thủy sản,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,DAT - ĐT Du lịch và PT Thủy sản
+DBC,Tập đoàn DABACO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,DBC - Tập đoàn DABACO
+DBC,Tập đoàn DABACO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,At_Risk,0.25,DBC - Tập đoàn DABACO
+DBC,Tập đoàn DABACO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,High_Risk,0.0,DBC - Tập đoàn DABACO
+DBC,Tập đoàn DABACO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,DBC - Tập đoàn DABACO
+DBC,Tập đoàn DABACO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,DBC - Tập đoàn DABACO
+DBD,Dược - TB Y tế Bình Định,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Healthy,0.75,DBD - Dược - TB Y tế Bình Định
+DBD,Dược - TB Y tế Bình Định,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Healthy,1.0,DBD - Dược - TB Y tế Bình Định
+DBD,Dược - TB Y tế Bình Định,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Healthy,0.75,DBD - Dược - TB Y tế Bình Định
+DBD,Dược - TB Y tế Bình Định,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Healthy,0.75,DBD - Dược - TB Y tế Bình Định
+DBD,Dược - TB Y tế Bình Định,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Healthy,1.0,DBD - Dược - TB Y tế Bình Định
+DBT,Dược phẩm Bến Tre,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,At_Risk,0.25,DBT - Dược phẩm Bến Tre
+DBT,Dược phẩm Bến Tre,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,At_Risk,0.25,DBT - Dược phẩm Bến Tre
+DBT,Dược phẩm Bến Tre,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,At_Risk,0.25,DBT - Dược phẩm Bến Tre
+DBT,Dược phẩm Bến Tre,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,At_Risk,0.25,DBT - Dược phẩm Bến Tre
+DBT,Dược phẩm Bến Tre,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,At_Risk,0.25,DBT - Dược phẩm Bến Tre
+DC4,Xây dựng DIC Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,DC4 - Xây dựng DIC Holdings
+DC4,Xây dựng DIC Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,DC4 - Xây dựng DIC Holdings
+DC4,Xây dựng DIC Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,DC4 - Xây dựng DIC Holdings
+DC4,Xây dựng DIC Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,DC4 - Xây dựng DIC Holdings
+DC4,Xây dựng DIC Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,DC4 - Xây dựng DIC Holdings
+DCL,Dược phẩm Cửu Long,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Stable,0.5,DCL - Dược phẩm Cửu Long
+DCL,Dược phẩm Cửu Long,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,At_Risk,0.25,DCL - Dược phẩm Cửu Long
+DCL,Dược phẩm Cửu Long,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Stable,0.5,DCL - Dược phẩm Cửu Long
+DCL,Dược phẩm Cửu Long,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,At_Risk,0.25,DCL - Dược phẩm Cửu Long
+DCL,Dược phẩm Cửu Long,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,At_Risk,0.25,DCL - Dược phẩm Cửu Long
+DCM,Đạm Cà Mau,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,DCM - Đạm Cà Mau
+DCM,Đạm Cà Mau,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,At_Risk,0.25,DCM - Đạm Cà Mau
+DCM,Đạm Cà Mau,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,Healthy,0.75,DCM - Đạm Cà Mau
+DCM,Đạm Cà Mau,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,Stable,0.5,DCM - Đạm Cà Mau
+DCM,Đạm Cà Mau,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Stable,0.5,DCM - Đạm Cà Mau
+DGC,Hóa chất Đức Giang,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,DGC - Hóa chất Đức Giang
+DGC,Hóa chất Đức Giang,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,At_Risk,0.25,DGC - Hóa chất Đức Giang
+DGC,Hóa chất Đức Giang,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,Healthy,0.75,DGC - Hóa chất Đức Giang
+DGC,Hóa chất Đức Giang,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,Stable,0.5,DGC - Hóa chất Đức Giang
+DGC,Hóa chất Đức Giang,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Healthy,0.75,DGC - Hóa chất Đức Giang
+DGW,Thế Giới Số,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,Stable,0.5,DGW - Thế Giới Số
+DGW,Thế Giới Số,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Healthy,0.75,DGW - Thế Giới Số
+DGW,Thế Giới Số,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,Stable,0.5,DGW - Thế Giới Số
+DGW,Thế Giới Số,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,At_Risk,0.25,DGW - Thế Giới Số
+DGW,Thế Giới Số,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,At_Risk,0.25,DGW - Thế Giới Số
+DHA,Hóa An,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,0.75,DHA - Hóa An
+DHA,Hóa An,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,0.75,DHA - Hóa An
+DHA,Hóa An,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,0.75,DHA - Hóa An
+DHA,Hóa An,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Healthy,0.75,DHA - Hóa An
+DHA,Hóa An,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,0.75,DHA - Hóa An
+DHC,Đông Hải Bến Tre,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2020,Healthy,0.75,DHC - Đông Hải Bến Tre
+DHC,Đông Hải Bến Tre,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2021,Stable,0.5,DHC - Đông Hải Bến Tre
+DHC,Đông Hải Bến Tre,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2022,At_Risk,0.25,DHC - Đông Hải Bến Tre
+DHC,Đông Hải Bến Tre,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2023,At_Risk,0.25,DHC - Đông Hải Bến Tre
+DHC,Đông Hải Bến Tre,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2024,Stable,0.5,DHC - Đông Hải Bến Tre
+DHG,Dược Hậu Giang,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Healthy,1.0,DHG - Dược Hậu Giang
+DHG,Dược Hậu Giang,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Healthy,1.0,DHG - Dược Hậu Giang
+DHG,Dược Hậu Giang,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Healthy,1.0,DHG - Dược Hậu Giang
+DHG,Dược Hậu Giang,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Healthy,0.75,DHG - Dược Hậu Giang
+DHG,Dược Hậu Giang,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Healthy,0.75,DHG - Dược Hậu Giang
+DHM,Khoáng sản Dương Hiếu,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2020,Stable,0.5,DHM - Khoáng sản Dương Hiếu
+DHM,Khoáng sản Dương Hiếu,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2021,Stable,0.5,DHM - Khoáng sản Dương Hiếu
+DHM,Khoáng sản Dương Hiếu,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2022,At_Risk,0.25,DHM - Khoáng sản Dương Hiếu
+DHM,Khoáng sản Dương Hiếu,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2023,At_Risk,0.25,DHM - Khoáng sản Dương Hiếu
+DHM,Khoáng sản Dương Hiếu,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2024,At_Risk,0.25,DHM - Khoáng sản Dương Hiếu
+DLG,Đức Long Gia Lai,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2020,High_Risk,0.0,DLG - Đức Long Gia Lai
+DLG,Đức Long Gia Lai,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2021,At_Risk,0.25,DLG - Đức Long Gia Lai
+DLG,Đức Long Gia Lai,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2022,At_Risk,0.25,DLG - Đức Long Gia Lai
+DLG,Đức Long Gia Lai,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2023,High_Risk,0.0,DLG - Đức Long Gia Lai
+DLG,Đức Long Gia Lai,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2024,At_Risk,0.25,DLG - Đức Long Gia Lai
+DMC,Dược phẩm DOMESCO,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Healthy,1.0,DMC - Dược phẩm DOMESCO
+DMC,Dược phẩm DOMESCO,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Healthy,1.0,DMC - Dược phẩm DOMESCO
+DMC,Dược phẩm DOMESCO,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Healthy,1.0,DMC - Dược phẩm DOMESCO
+DMC,Dược phẩm DOMESCO,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Healthy,1.0,DMC - Dược phẩm DOMESCO
+DMC,Dược phẩm DOMESCO,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Healthy,1.0,DMC - Dược phẩm DOMESCO
+DPG,Tập đoàn Đạt Phương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,DPG - Tập đoàn Đạt Phương
+DPG,Tập đoàn Đạt Phương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,DPG - Tập đoàn Đạt Phương
+DPG,Tập đoàn Đạt Phương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,DPG - Tập đoàn Đạt Phương
+DPG,Tập đoàn Đạt Phương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,DPG - Tập đoàn Đạt Phương
+DPG,Tập đoàn Đạt Phương,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,DPG - Tập đoàn Đạt Phương
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Healthy,0.75,DPM - Tổng Công ty Phân bón và Hóa chất Dầu khí
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,Stable,0.5,DPM - Tổng Công ty Phân bón và Hóa chất Dầu khí
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,Healthy,0.75,DPM - Tổng Công ty Phân bón và Hóa chất Dầu khí
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,Stable,0.5,DPM - Tổng Công ty Phân bón và Hóa chất Dầu khí
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,At_Risk,0.25,DPM - Tổng Công ty Phân bón và Hóa chất Dầu khí
+DPR,Cao su Đồng Phú,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Stable,0.5,DPR - Cao su Đồng Phú
+DPR,Cao su Đồng Phú,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,Stable,0.5,DPR - Cao su Đồng Phú
+DPR,Cao su Đồng Phú,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,Stable,0.5,DPR - Cao su Đồng Phú
+DPR,Cao su Đồng Phú,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,Stable,0.5,DPR - Cao su Đồng Phú
+DPR,Cao su Đồng Phú,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Healthy,0.75,DPR - Cao su Đồng Phú
+DQC,Tập đoàn Điện Quang,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2020,At_Risk,0.25,DQC - Tập đoàn Điện Quang
+DQC,Tập đoàn Điện Quang,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2021,At_Risk,0.25,DQC - Tập đoàn Điện Quang
+DQC,Tập đoàn Điện Quang,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2022,At_Risk,0.25,DQC - Tập đoàn Điện Quang
+DQC,Tập đoàn Điện Quang,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2023,At_Risk,0.25,DQC - Tập đoàn Điện Quang
+DQC,Tập đoàn Điện Quang,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2024,At_Risk,0.25,DQC - Tập đoàn Điện Quang
+DRC,Cao su Đà Nẵng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2020,Healthy,0.75,DRC - Cao su Đà Nẵng
+DRC,Cao su Đà Nẵng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2021,Healthy,0.75,DRC - Cao su Đà Nẵng
+DRC,Cao su Đà Nẵng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2022,Healthy,0.75,DRC - Cao su Đà Nẵng
+DRC,Cao su Đà Nẵng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2023,Healthy,0.75,DRC - Cao su Đà Nẵng
+DRC,Cao su Đà Nẵng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2024,Stable,0.5,DRC - Cao su Đà Nẵng
+DRL,Thủy điện - Điện lực 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Healthy,0.75,DRL - Thủy điện - Điện lực 3
+DRL,Thủy điện - Điện lực 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Healthy,0.75,DRL - Thủy điện - Điện lực 3
+DRL,Thủy điện - Điện lực 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Healthy,0.75,DRL - Thủy điện - Điện lực 3
+DRL,Thủy điện - Điện lực 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Healthy,0.75,DRL - Thủy điện - Điện lực 3
+DRL,Thủy điện - Điện lực 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Healthy,0.75,DRL - Thủy điện - Điện lực 3
+DSN,Công viên nước Đầm Sen,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí,2020,Healthy,0.75,DSN - Công viên nước Đầm Sen
+DSN,Công viên nước Đầm Sen,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí,2021,Healthy,0.75,DSN - Công viên nước Đầm Sen
+DSN,Công viên nước Đầm Sen,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí,2022,Healthy,0.75,DSN - Công viên nước Đầm Sen
+DSN,Công viên nước Đầm Sen,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí,2023,Healthy,0.75,DSN - Công viên nước Đầm Sen
+DSN,Công viên nước Đầm Sen,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí,2024,Stable,0.5,DSN - Công viên nước Đầm Sen
+DTL,Đại Thiên Lộc,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,High_Risk,0.0,DTL - Đại Thiên Lộc
+DTL,Đại Thiên Lộc,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,High_Risk,0.0,DTL - Đại Thiên Lộc
+DTL,Đại Thiên Lộc,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,DTL - Đại Thiên Lộc
+DTL,Đại Thiên Lộc,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,DTL - Đại Thiên Lộc
+DTL,Đại Thiên Lộc,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,High_Risk,0.0,DTL - Đại Thiên Lộc
+DTT,Kỹ nghệ Đô Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Stable,0.5,DTT - Kỹ nghệ Đô Thành
+DTT,Kỹ nghệ Đô Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,DTT - Kỹ nghệ Đô Thành
+DTT,Kỹ nghệ Đô Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,DTT - Kỹ nghệ Đô Thành
+DTT,Kỹ nghệ Đô Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,DTT - Kỹ nghệ Đô Thành
+DTT,Kỹ nghệ Đô Thành,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Stable,0.5,DTT - Kỹ nghệ Đô Thành
+DVP,ĐT và PT Cảng Đình Vũ,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Healthy,0.75,DVP - ĐT và PT Cảng Đình Vũ
+DVP,ĐT và PT Cảng Đình Vũ,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Healthy,0.75,DVP - ĐT và PT Cảng Đình Vũ
+DVP,ĐT và PT Cảng Đình Vũ,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Healthy,0.75,DVP - ĐT và PT Cảng Đình Vũ
+DVP,ĐT và PT Cảng Đình Vũ,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,Stable,0.5,DVP - ĐT và PT Cảng Đình Vũ
+DVP,ĐT và PT Cảng Đình Vũ,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,0.75,DVP - ĐT và PT Cảng Đình Vũ
+DXV,Vật liệu Xây dựng Đà Nẵng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,0.75,DXV - Vật liệu Xây dựng Đà Nẵng
+DXV,Vật liệu Xây dựng Đà Nẵng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,0.75,DXV - Vật liệu Xây dựng Đà Nẵng
+DXV,Vật liệu Xây dựng Đà Nẵng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,0.75,DXV - Vật liệu Xây dựng Đà Nẵng
+DXV,Vật liệu Xây dựng Đà Nẵng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,DXV - Vật liệu Xây dựng Đà Nẵng
+DXV,Vật liệu Xây dựng Đà Nẵng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,0.75,DXV - Vật liệu Xây dựng Đà Nẵng
+ELC,ELCOM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2020,,,ELC - ELCOM
+ELC,ELCOM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2021,,,ELC - ELCOM
+ELC,ELCOM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2022,,,ELC - ELCOM
+ELC,ELCOM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2023,,,ELC - ELCOM
+ELC,ELCOM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2024,,,ELC - ELCOM
+EVE,Everpia,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,Stable,0.5,EVE - Everpia
+EVE,Everpia,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,Stable,0.5,EVE - Everpia
+EVE,Everpia,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Healthy,0.75,EVE - Everpia
+EVE,Everpia,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Stable,0.5,EVE - Everpia
+EVE,Everpia,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,Stable,0.5,EVE - Everpia
+EVG,Tập đoàn Everland,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,EVG - Tập đoàn Everland
+EVG,Tập đoàn Everland,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Stable,0.5,EVG - Tập đoàn Everland
+EVG,Tập đoàn Everland,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Stable,0.5,EVG - Tập đoàn Everland
+EVG,Tập đoàn Everland,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,EVG - Tập đoàn Everland
+EVG,Tập đoàn Everland,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,EVG - Tập đoàn Everland
+FCM,Khoáng sản FECON,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,FCM - Khoáng sản FECON
+FCM,Khoáng sản FECON,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,At_Risk,0.25,FCM - Khoáng sản FECON
+FCM,Khoáng sản FECON,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,At_Risk,0.25,FCM - Khoáng sản FECON
+FCM,Khoáng sản FECON,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,High_Risk,0.0,FCM - Khoáng sản FECON
+FCM,Khoáng sản FECON,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Stable,0.5,FCM - Khoáng sản FECON
+FCN,FECON CORP,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,FCN - FECON CORP
+FCN,FECON CORP,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,FCN - FECON CORP
+FCN,FECON CORP,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,FCN - FECON CORP
+FCN,FECON CORP,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,FCN - FECON CORP
+FCN,FECON CORP,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,FCN - FECON CORP
+FIT,Tập đoàn F.I.T,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Stable,0.5,FIT - Tập đoàn F.I.T
+FIT,Tập đoàn F.I.T,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Stable,0.5,FIT - Tập đoàn F.I.T
+FMC,Thực phẩm Sao Ta,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,Healthy,0.75,FMC - Thực phẩm Sao Ta
+FMC,Thực phẩm Sao Ta,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Healthy,1.0,FMC - Thực phẩm Sao Ta
+FMC,Thực phẩm Sao Ta,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Healthy,0.75,FMC - Thực phẩm Sao Ta
+FMC,Thực phẩm Sao Ta,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Healthy,0.75,FMC - Thực phẩm Sao Ta
+FMC,Thực phẩm Sao Ta,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,Healthy,0.75,FMC - Thực phẩm Sao Ta
+FPT,FPT Corp,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2020,,,FPT - FPT Corp
+FPT,FPT Corp,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2021,,,FPT - FPT Corp
+FPT,FPT Corp,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2022,,,FPT - FPT Corp
+FPT,FPT Corp,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2023,,,FPT - FPT Corp
+FPT,FPT Corp,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2024,,,FPT - FPT Corp
+FRT,Bán lẻ FPT,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,At_Risk,0.25,FRT - Bán lẻ FPT
+FRT,Bán lẻ FPT,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Healthy,0.75,FRT - Bán lẻ FPT
+FRT,Bán lẻ FPT,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,FRT - Bán lẻ FPT
+FRT,Bán lẻ FPT,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,At_Risk,0.25,FRT - Bán lẻ FPT
+FRT,Bán lẻ FPT,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,At_Risk,0.25,FRT - Bán lẻ FPT
+GAS,PV Gas,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Healthy,0.75,GAS - PV Gas
+GAS,PV Gas,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,Healthy,1.0,GAS - PV Gas
+GAS,PV Gas,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,Healthy,1.0,GAS - PV Gas
+GAS,PV Gas,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,Healthy,0.75,GAS - PV Gas
+GAS,PV Gas,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,Healthy,0.75,GAS - PV Gas
+GDT,Gỗ Đức Thành,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2020,Healthy,0.75,GDT - Gỗ Đức Thành
+GDT,Gỗ Đức Thành,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2021,Stable,0.5,GDT - Gỗ Đức Thành
+GDT,Gỗ Đức Thành,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2022,Healthy,0.75,GDT - Gỗ Đức Thành
+GDT,Gỗ Đức Thành,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2023,Stable,0.5,GDT - Gỗ Đức Thành
+GDT,Gỗ Đức Thành,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2024,At_Risk,0.25,GDT - Gỗ Đức Thành
+GEE,Thiết bị điện GELEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2023,Stable,0.5,GEE - Thiết bị điện GELEX
+GEE,Thiết bị điện GELEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2024,Healthy,0.75,GEE - Thiết bị điện GELEX
+GEG,Điện Gia Lai,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,At_Risk,0.25,GEG - Điện Gia Lai
+GEG,Điện Gia Lai,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,High_Risk,0.0,GEG - Điện Gia Lai
+GEG,Điện Gia Lai,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,High_Risk,0.0,GEG - Điện Gia Lai
+GEG,Điện Gia Lai,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,High_Risk,0.0,GEG - Điện Gia Lai
+GEG,Điện Gia Lai,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,High_Risk,0.0,GEG - Điện Gia Lai
+GEX,Tập đoàn Gelex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2020,High_Risk,0.0,GEX - Tập đoàn Gelex
+GEX,Tập đoàn Gelex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2021,High_Risk,0.0,GEX - Tập đoàn Gelex
+GEX,Tập đoàn Gelex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2022,High_Risk,0.0,GEX - Tập đoàn Gelex
+GEX,Tập đoàn Gelex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2023,High_Risk,0.0,GEX - Tập đoàn Gelex
+GEX,Tập đoàn Gelex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện,2024,At_Risk,0.25,GEX - Tập đoàn Gelex
+GIL,XNK Bình Thạnh,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,Healthy,0.75,GIL - XNK Bình Thạnh
+GIL,XNK Bình Thạnh,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,At_Risk,0.25,GIL - XNK Bình Thạnh
+GIL,XNK Bình Thạnh,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Healthy,0.75,GIL - XNK Bình Thạnh
+GIL,XNK Bình Thạnh,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Stable,0.5,GIL - XNK Bình Thạnh
+GIL,XNK Bình Thạnh,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,At_Risk,0.25,GIL - XNK Bình Thạnh
+GMC,Garmex Sài Gòn,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,At_Risk,0.25,GMC - Garmex Sài Gòn
+GMC,Garmex Sài Gòn,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,Healthy,0.75,GMC - Garmex Sài Gòn
+GMC,Garmex Sài Gòn,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Stable,0.5,GMC - Garmex Sài Gòn
+GMD,Gemadept,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,At_Risk,0.25,GMD - Gemadept
+GMD,Gemadept,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Stable,0.5,GMD - Gemadept
+GMD,Gemadept,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Stable,0.5,GMD - Gemadept
+GMD,Gemadept,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,At_Risk,0.25,GMD - Gemadept
+GMD,Gemadept,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,0.75,GMD - Gemadept
+GMH,Minh Hưng Quảng Trị,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,GMH - Minh Hưng Quảng Trị
+GMH,Minh Hưng Quảng Trị,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,0.75,GMH - Minh Hưng Quảng Trị
+GMH,Minh Hưng Quảng Trị,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,0.75,GMH - Minh Hưng Quảng Trị
+GMH,Minh Hưng Quảng Trị,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,GMH - Minh Hưng Quảng Trị
+GMH,Minh Hưng Quảng Trị,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Stable,0.5,GMH - Minh Hưng Quảng Trị
+GSP,Vận tải Sản phẩm Khí Quốc tế,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,Healthy,0.75,GSP - Vận tải Sản phẩm Khí Quốc tế
+GSP,Vận tải Sản phẩm Khí Quốc tế,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Stable,0.5,GSP - Vận tải Sản phẩm Khí Quốc tế
+GSP,Vận tải Sản phẩm Khí Quốc tế,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Stable,0.5,GSP - Vận tải Sản phẩm Khí Quốc tế
+GSP,Vận tải Sản phẩm Khí Quốc tế,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,Stable,0.5,GSP - Vận tải Sản phẩm Khí Quốc tế
+GSP,Vận tải Sản phẩm Khí Quốc tế,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Healthy,0.75,GSP - Vận tải Sản phẩm Khí Quốc tế
+GTA,Gỗ Thuận An,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2020,High_Risk,0.0,GTA - Gỗ Thuận An
+GTA,Gỗ Thuận An,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2021,High_Risk,0.0,GTA - Gỗ Thuận An
+GTA,Gỗ Thuận An,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2022,Stable,0.5,GTA - Gỗ Thuận An
+GTA,Gỗ Thuận An,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2023,At_Risk,0.25,GTA - Gỗ Thuận An
+GTA,Gỗ Thuận An,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2024,At_Risk,0.25,GTA - Gỗ Thuận An
+GVR,Tập đoàn CN Cao su VN,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Stable,0.5,GVR - Tập đoàn CN Cao su VN
+GVR,Tập đoàn CN Cao su VN,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,GVR - Tập đoàn CN Cao su VN
+GVR,Tập đoàn CN Cao su VN,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,GVR - Tập đoàn CN Cao su VN
+GVR,Tập đoàn CN Cao su VN,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,GVR - Tập đoàn CN Cao su VN
+GVR,Tập đoàn CN Cao su VN,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Stable,0.5,GVR - Tập đoàn CN Cao su VN
+HAG,Hoàng Anh Gia Lai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,High_Risk,0.0,HAG - Hoàng Anh Gia Lai
+HAG,Hoàng Anh Gia Lai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,High_Risk,0.0,HAG - Hoàng Anh Gia Lai
+HAG,Hoàng Anh Gia Lai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,At_Risk,0.25,HAG - Hoàng Anh Gia Lai
+HAG,Hoàng Anh Gia Lai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,HAG - Hoàng Anh Gia Lai
+HAG,Hoàng Anh Gia Lai,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,High_Risk,0.0,HAG - Hoàng Anh Gia Lai
+HAH,Vận tải và Xếp dỡ Hải An,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Stable,0.5,HAH - Vận tải và Xếp dỡ Hải An
+HAH,Vận tải và Xếp dỡ Hải An,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Stable,0.5,HAH - Vận tải và Xếp dỡ Hải An
+HAH,Vận tải và Xếp dỡ Hải An,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Stable,0.5,HAH - Vận tải và Xếp dỡ Hải An
+HAH,Vận tải và Xếp dỡ Hải An,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,At_Risk,0.25,HAH - Vận tải và Xếp dỡ Hải An
+HAH,Vận tải và Xếp dỡ Hải An,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Stable,0.5,HAH - Vận tải và Xếp dỡ Hải An
+HAP,Tập đoàn Hapaco,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2020,Stable,0.5,HAP - Tập đoàn Hapaco
+HAP,Tập đoàn Hapaco,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2021,At_Risk,0.25,HAP - Tập đoàn Hapaco
+HAP,Tập đoàn Hapaco,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2022,Stable,0.5,HAP - Tập đoàn Hapaco
+HAP,Tập đoàn Hapaco,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2023,At_Risk,0.25,HAP - Tập đoàn Hapaco
+HAP,Tập đoàn Hapaco,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2024,Stable,0.5,HAP - Tập đoàn Hapaco
+HAS,Hacisco,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,HAS - Hacisco
+HAS,Hacisco,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Healthy,0.75,HAS - Hacisco
+HAS,Hacisco,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,HAS - Hacisco
+HAS,Hacisco,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,HAS - Hacisco
+HAS,Hacisco,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,HAS - Hacisco
+HAX,Ô tô Hàng Xanh,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2020,Stable,0.5,HAX - Ô tô Hàng Xanh
+HAX,Ô tô Hàng Xanh,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2021,Healthy,0.75,HAX - Ô tô Hàng Xanh
+HAX,Ô tô Hàng Xanh,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2022,Stable,0.5,HAX - Ô tô Hàng Xanh
+HAX,Ô tô Hàng Xanh,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2023,Stable,0.5,HAX - Ô tô Hàng Xanh
+HAX,Ô tô Hàng Xanh,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2024,Stable,0.5,HAX - Ô tô Hàng Xanh
+HBC,Tập đoàn Xây dựng Hòa Bình,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,HBC - Tập đoàn Xây dựng Hòa Bình
+HBC,Tập đoàn Xây dựng Hòa Bình,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,HBC - Tập đoàn Xây dựng Hòa Bình
+HBC,Tập đoàn Xây dựng Hòa Bình,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,HBC - Tập đoàn Xây dựng Hòa Bình
+HCD,SX và Thương mại HCD,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,At_Risk,0.25,HCD - SX và Thương mại HCD
+HCD,SX và Thương mại HCD,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,Stable,0.5,HCD - SX và Thương mại HCD
+HCD,SX và Thương mại HCD,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,HCD - SX và Thương mại HCD
+HCD,SX và Thương mại HCD,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,HCD - SX và Thương mại HCD
+HCD,SX và Thương mại HCD,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,At_Risk,0.25,HCD - SX và Thương mại HCD
+HHP,Giấy Hoàng Hà Hải Phòng,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2020,High_Risk,0.0,HHP - Giấy Hoàng Hà Hải Phòng
+HHP,Giấy Hoàng Hà Hải Phòng,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2021,High_Risk,0.0,HHP - Giấy Hoàng Hà Hải Phòng
+HHP,Giấy Hoàng Hà Hải Phòng,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2022,At_Risk,0.25,HHP - Giấy Hoàng Hà Hải Phòng
+HHP,HHP Global,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2023,High_Risk,0.0,HHP - HHP Global
+HHP,HHP Global,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2024,High_Risk,0.0,HHP - HHP Global
+HHS,Đầu tư DV Hoàng Huy,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2020,Stable,0.5,HHS - Đầu tư DV Hoàng Huy
+HHS,Đầu tư DV Hoàng Huy,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2021,Stable,0.5,HHS - Đầu tư DV Hoàng Huy
+HHS,Đầu tư DV Hoàng Huy,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2022,Stable,0.5,HHS - Đầu tư DV Hoàng Huy
+HHS,Đầu tư DV Hoàng Huy,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2023,Healthy,0.75,HHS - Đầu tư DV Hoàng Huy
+HHS,Đầu tư DV Hoàng Huy,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2024,Stable,0.5,HHS - Đầu tư DV Hoàng Huy
+HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,HHV - Đầu tư Hạ tầng Giao thông Đèo Cả
+HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,HHV - Đầu tư Hạ tầng Giao thông Đèo Cả
+HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,HHV - Đầu tư Hạ tầng Giao thông Đèo Cả
+HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,HHV - Đầu tư Hạ tầng Giao thông Đèo Cả
+HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,HHV - Đầu tư Hạ tầng Giao thông Đèo Cả
+HID,Halcom Vietnam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,HID - Halcom Vietnam
+HID,Halcom Vietnam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,HID - Halcom Vietnam
+HID,Halcom Vietnam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Stable,0.5,HID - Halcom Vietnam
+HID,Halcom Vietnam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,HID - Halcom Vietnam
+HID,Halcom Vietnam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,HID - Halcom Vietnam
+HII,An Tiến Industries,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,At_Risk,0.25,HII - An Tiến Industries
+HII,An Tiến Industries,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,At_Risk,0.25,HII - An Tiến Industries
+HII,An Tiến Industries,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,HII - An Tiến Industries
+HII,An Tiến Industries,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,HII - An Tiến Industries
+HII,An Tiến Industries,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Stable,0.5,HII - An Tiến Industries
+HMC,Kim khí TP.HCM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,Stable,0.5,HMC - Kim khí TP.HCM
+HMC,Kim khí TP.HCM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,Stable,0.5,HMC - Kim khí TP.HCM
+HMC,Kim khí TP.HCM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,Stable,0.5,HMC - Kim khí TP.HCM
+HMC,Kim khí TP.HCM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,HMC - Kim khí TP.HCM
+HMC,Kim khí TP.HCM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,At_Risk,0.25,HMC - Kim khí TP.HCM
+HNA,Thủy điện Hủa Na,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,HNA - Thủy điện Hủa Na
+HNA,Thủy điện Hủa Na,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,HNA - Thủy điện Hủa Na
+HNG,Nông nghiệp Quốc tế HAGL,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,High_Risk,0.0,HNG - Nông nghiệp Quốc tế HAGL
+HNG,Nông nghiệp Quốc tế HAGL,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,High_Risk,0.0,HNG - Nông nghiệp Quốc tế HAGL
+HNG,Nông nghiệp Quốc tế HAGL,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,High_Risk,0.0,HNG - Nông nghiệp Quốc tế HAGL
+HPG,Hòa Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,At_Risk,0.25,HPG - Hòa Phát
+HPG,Hòa Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,At_Risk,0.25,HPG - Hòa Phát
+HPG,Hòa Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,HPG - Hòa Phát
+HPG,Hòa Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,At_Risk,0.25,HPG - Hòa Phát
+HPG,Hòa Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,Stable,0.5,HPG - Hòa Phát
+HRC,Cao su Hòa Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,High_Risk,0.0,HRC - Cao su Hòa Bình
+HRC,Cao su Hòa Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,HRC - Cao su Hòa Bình
+HRC,Cao su Hòa Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,HRC - Cao su Hòa Bình
+HRC,Cao su Hòa Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,High_Risk,0.0,HRC - Cao su Hòa Bình
+HRC,Cao su Hòa Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Stable,0.5,HRC - Cao su Hòa Bình
+HSG,Tập đoàn Hoa Sen,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,Stable,0.5,HSG - Tập đoàn Hoa Sen
+HSG,Tập đoàn Hoa Sen,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,High_Risk,0.0,HSG - Tập đoàn Hoa Sen
+HSG,Tập đoàn Hoa Sen,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,High_Risk,0.0,HSG - Tập đoàn Hoa Sen
+HSG,Tập đoàn Hoa Sen,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,At_Risk,0.25,HSG - Tập đoàn Hoa Sen
+HSG,Tập đoàn Hoa Sen,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,Stable,0.5,HSG - Tập đoàn Hoa Sen
+HSL,Thực phẩm Hồng Hà,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,Stable,0.5,HSL - Thực phẩm Hồng Hà
+HSL,Thực phẩm Hồng Hà,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,Stable,0.5,HSL - Thực phẩm Hồng Hà
+HSL,Thực phẩm Hồng Hà,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,Stable,0.5,HSL - Thực phẩm Hồng Hà
+HSL,Thực phẩm Hồng Hà,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,Stable,0.5,HSL - Thực phẩm Hồng Hà
+HSL,Thực phẩm Hồng Hà,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,Stable,0.5,HSL - Thực phẩm Hồng Hà
+HT1,VICEM Hà Tiên,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,HT1 - VICEM Hà Tiên
+HT1,VICEM Hà Tiên,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Stable,0.5,HT1 - VICEM Hà Tiên
+HT1,VICEM Hà Tiên,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Stable,0.5,HT1 - VICEM Hà Tiên
+HT1,VICEM Hà Tiên,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,At_Risk,0.25,HT1 - VICEM Hà Tiên
+HT1,VICEM Hà Tiên,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Stable,0.5,HT1 - VICEM Hà Tiên
+HTG,Dệt may Hòa Thọ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Stable,0.5,HTG - Dệt may Hòa Thọ
+HTG,Dệt may Hòa Thọ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,Stable,0.5,HTG - Dệt may Hòa Thọ
+HTI,PT Hạ tầng IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,HTI - PT Hạ tầng IDICO
+HTI,PT Hạ tầng IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,HTI - PT Hạ tầng IDICO
+HTI,PT Hạ tầng IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,HTI - PT Hạ tầng IDICO
+HTI,PT Hạ tầng IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,HTI - PT Hạ tầng IDICO
+HTI,PT Hạ tầng IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,HTI - PT Hạ tầng IDICO
+HTL,Ô tô Trường Long,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2020,Healthy,0.75,HTL - Ô tô Trường Long
+HTL,Ô tô Trường Long,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2021,Healthy,0.75,HTL - Ô tô Trường Long
+HTL,Ô tô Trường Long,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2022,Healthy,0.75,HTL - Ô tô Trường Long
+HTL,Ô tô Trường Long,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2023,Healthy,0.75,HTL - Ô tô Trường Long
+HTL,Ô tô Trường Long,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2024,Stable,0.5,HTL - Ô tô Trường Long
+HTV,Logistics Vicem,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,Healthy,0.75,HTV - Logistics Vicem
+HTV,Logistics Vicem,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Stable,0.5,HTV - Logistics Vicem
+HTV,Logistics Vicem,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Stable,0.5,HTV - Logistics Vicem
+HTV,Logistics Vicem,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,Stable,0.5,HTV - Logistics Vicem
+HTV,Logistics Vicem,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Stable,0.5,HTV - Logistics Vicem
+HU1,Xây dựng HUD1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,HU1 - Xây dựng HUD1
+HU1,Xây dựng HUD1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,HU1 - Xây dựng HUD1
+HU1,Xây dựng HUD1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,HU1 - Xây dựng HUD1
+HU1,Xây dựng HUD1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,HU1 - Xây dựng HUD1
+HU1,Xây dựng HUD1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,HU1 - Xây dựng HUD1
+HUB,Xây lắp Huế,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,HUB - Xây lắp Huế
+HUB,Xây lắp Huế,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Stable,0.5,HUB - Xây lắp Huế
+HUB,Xây lắp Huế,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Stable,0.5,HUB - Xây lắp Huế
+HUB,Xây lắp Huế,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,HUB - Xây lắp Huế
+HUB,Xây lắp Huế,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,HUB - Xây lắp Huế
+HVH,Đầu tư và Công nghệ HVC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,HVH - Đầu tư và Công nghệ HVC
+HVH,Đầu tư và Công nghệ HVC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,HVH - Đầu tư và Công nghệ HVC
+HVH,Đầu tư và Công nghệ HVC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,HVH - Đầu tư và Công nghệ HVC
+HVH,Đầu tư và Công nghệ HVC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,HVH - Đầu tư và Công nghệ HVC
+HVH,Đầu tư và Công nghệ HVC,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,HVH - Đầu tư và Công nghệ HVC
+HVN,Vietnam Airlines,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2020,High_Risk,0.0,HVN - Vietnam Airlines
+HVN,Vietnam Airlines,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2021,High_Risk,0.0,HVN - Vietnam Airlines
+HVN,Vietnam Airlines,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2022,At_Risk,0.25,HVN - Vietnam Airlines
+HVN,Vietnam Airlines,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2023,At_Risk,0.25,HVN - Vietnam Airlines
+HVN,Vietnam Airlines,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2024,At_Risk,0.25,HVN - Vietnam Airlines
+HVX,Xi măng Vicem Hải Vân,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,At_Risk,0.25,HVX - Xi măng Vicem Hải Vân
+HVX,Xi măng Vicem Hải Vân,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Stable,0.5,HVX - Xi măng Vicem Hải Vân
+HVX,Xi măng Vicem Hải Vân,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Stable,0.5,HVX - Xi măng Vicem Hải Vân
+HVX,Xi măng Vicem Hải Vân,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,At_Risk,0.25,HVX - Xi măng Vicem Hải Vân
+HVX,Xi măng Vicem Hải Vân,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,At_Risk,0.25,HVX - Xi măng Vicem Hải Vân
+ICT,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2020,,,ICT - Viễn thông - Tin học Bưu điện
+ICT,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2021,,,ICT - Viễn thông - Tin học Bưu điện
+ICT,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2022,,,ICT - Viễn thông - Tin học Bưu điện
+ICT,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2023,,,ICT - Viễn thông - Tin học Bưu điện
+ICT,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2024,,,ICT - Viễn thông - Tin học Bưu điện
+IDI,Đầu tư và PT Đa Quốc Gia,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,High_Risk,0.0,IDI - Đầu tư và PT Đa Quốc Gia
+IDI,Đầu tư và PT Đa Quốc Gia,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,High_Risk,0.0,IDI - Đầu tư và PT Đa Quốc Gia
+IDI,Đầu tư và PT Đa Quốc Gia,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,At_Risk,0.25,IDI - Đầu tư và PT Đa Quốc Gia
+IDI,Đầu tư và PT Đa Quốc Gia,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,At_Risk,0.25,IDI - Đầu tư và PT Đa Quốc Gia
+IDI,Đầu tư và PT Đa Quốc Gia,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,IDI - Đầu tư và PT Đa Quốc Gia
+ILB,ICD Tân Cảng Long Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,High_Risk,0.0,ILB - ICD Tân Cảng Long Bình
+ILB,ICD Tân Cảng Long Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,High_Risk,0.0,ILB - ICD Tân Cảng Long Bình
+ILB,ICD Tân Cảng Long Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,At_Risk,0.25,ILB - ICD Tân Cảng Long Bình
+ILB,ICD Tân Cảng Long Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,At_Risk,0.25,ILB - ICD Tân Cảng Long Bình
+ILB,ICD Tân Cảng Long Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,At_Risk,0.25,ILB - ICD Tân Cảng Long Bình
+IMP,IMEXPHARM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Stable,0.5,IMP - IMEXPHARM
+IMP,IMEXPHARM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Healthy,0.75,IMP - IMEXPHARM
+IMP,IMEXPHARM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Stable,0.5,IMP - IMEXPHARM
+IMP,IMEXPHARM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Healthy,0.75,IMP - IMEXPHARM
+IMP,IMEXPHARM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Healthy,1.0,IMP - IMEXPHARM
+ITD,Công nghệ Tiên Phong,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng,2020,,,ITD - Công nghệ Tiên Phong
+ITD,Công nghệ Tiên Phong,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng,2021,,,ITD - Công nghệ Tiên Phong
+ITD,Công nghệ Tiên Phong,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng,2022,,,ITD - Công nghệ Tiên Phong
+ITD,Công nghệ Tiên Phong,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2023,,,ITD - Công nghệ Tiên Phong
+ITD,Công nghệ Tiên Phong,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm,2024,,,ITD - Công nghệ Tiên Phong
+JVC,Đầu tư và Phát triển Y tế Việt Nhật,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế,2020,At_Risk,0.25,JVC - Đầu tư và Phát triển Y tế Việt Nhật
+JVC,Đầu tư và Phát triển Y tế Việt Nhật,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế,2021,At_Risk,0.25,JVC - Đầu tư và Phát triển Y tế Việt Nhật
+JVC,Đầu tư và Phát triển Y tế Việt Nhật,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế,2022,Stable,0.5,JVC - Đầu tư và Phát triển Y tế Việt Nhật
+JVC,Đầu tư và Phát triển Y tế Việt Nhật,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế,2023,Stable,0.5,JVC - Đầu tư và Phát triển Y tế Việt Nhật
+JVC,Đầu tư và Phát triển Y tế Việt Nhật,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế,2024,Stable,0.5,JVC - Đầu tư và Phát triển Y tế Việt Nhật
+KDC,Tập đoàn KIDO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,At_Risk,0.25,KDC - Tập đoàn KIDO
+KDC,Tập đoàn KIDO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,At_Risk,0.25,KDC - Tập đoàn KIDO
+KDC,Tập đoàn KIDO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,At_Risk,0.25,KDC - Tập đoàn KIDO
+KDC,Tập đoàn KIDO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,At_Risk,0.25,KDC - Tập đoàn KIDO
+KDC,Tập đoàn KIDO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,High_Risk,0.0,KDC - Tập đoàn KIDO
+KHP,Điện lực Khánh Hòa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,High_Risk,0.0,KHP - Điện lực Khánh Hòa
+KHP,Điện lực Khánh Hòa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,At_Risk,0.25,KHP - Điện lực Khánh Hòa
+KHP,Điện lực Khánh Hòa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,KHP - Điện lực Khánh Hòa
+KHP,Điện lực Khánh Hòa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,At_Risk,0.25,KHP - Điện lực Khánh Hòa
+KHP,Điện lực Khánh Hòa,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,KHP - Điện lực Khánh Hòa
+KMR,MIRAE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,At_Risk,0.25,KMR - MIRAE
+KMR,MIRAE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,At_Risk,0.25,KMR - MIRAE
+KMR,MIRAE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,At_Risk,0.25,KMR - MIRAE
+KMR,MIRAE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Stable,0.5,KMR - MIRAE
+KMR,MIRAE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,At_Risk,0.25,KMR - MIRAE
+KPF,Đầu tư Tài sản KOJI,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,High_Risk,0.0,KPF - Đầu tư Tài sản KOJI
+KPF,Đầu tư Tài sản KOJI,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,0.75,KPF - Đầu tư Tài sản KOJI
+KPF,Đầu tư Tài sản KOJI,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,0.75,KPF - Đầu tư Tài sản KOJI
+KPF,Đầu tư Tài sản KOJI,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,At_Risk,0.25,KPF - Đầu tư Tài sản KOJI
+KPF,Đầu tư Tài sản KOJI,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Stable,0.5,KPF - Đầu tư Tài sản KOJI
+KSB,Khoáng sản Bình Dương,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2020,At_Risk,0.25,KSB - Khoáng sản Bình Dương
+KSB,Khoáng sản Bình Dương,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2021,High_Risk,0.0,KSB - Khoáng sản Bình Dương
+KSB,Khoáng sản Bình Dương,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2022,At_Risk,0.25,KSB - Khoáng sản Bình Dương
+KSB,Khoáng sản Bình Dương,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2023,At_Risk,0.25,KSB - Khoáng sản Bình Dương
+KSB,Khoáng sản Bình Dương,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2024,At_Risk,0.25,KSB - Khoáng sản Bình Dương
+L10,LILAMA 10,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2020,At_Risk,0.25,L10 - LILAMA 10
+L10,LILAMA 10,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2021,At_Risk,0.25,L10 - LILAMA 10
+L10,LILAMA 10,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2022,At_Risk,0.25,L10 - LILAMA 10
+L10,LILAMA 10,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2023,At_Risk,0.25,L10 - LILAMA 10
+L10,LILAMA 10,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2024,At_Risk,0.25,L10 - LILAMA 10
+LAF,Chế biến Hàng XK Long An,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,Healthy,1.0,LAF - Chế biến Hàng XK Long An
+LAF,Chế biến Hàng XK Long An,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,Healthy,1.0,LAF - Chế biến Hàng XK Long An
+LAF,Chế biến Hàng XK Long An,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,Healthy,0.75,LAF - Chế biến Hàng XK Long An
+LAF,Chế biến Hàng XK Long An,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,Healthy,0.75,LAF - Chế biến Hàng XK Long An
+LAF,Chế biến Hàng XK Long An,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,Healthy,0.75,LAF - Chế biến Hàng XK Long An
+LBM,Khoáng sản Lâm Đồng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,1.0,LBM - Khoáng sản Lâm Đồng
+LBM,Khoáng sản Lâm Đồng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,0.75,LBM - Khoáng sản Lâm Đồng
+LBM,Khoáng sản Lâm Đồng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,0.75,LBM - Khoáng sản Lâm Đồng
+LBM,Khoáng sản Lâm Đồng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,LBM - Khoáng sản Lâm Đồng
+LBM,Khoáng sản Lâm Đồng,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,0.75,LBM - Khoáng sản Lâm Đồng
+LCG,LIZEN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,LCG - LIZEN
+LCG,LIZEN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,LCG - LIZEN
+LCG,LIZEN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,LCG - LIZEN
+LCG,LIZEN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,LCG - LIZEN
+LCG,LIZEN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,LCG - LIZEN
+LGC,Đầu tư Cầu đường CII,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,LGC - Đầu tư Cầu đường CII
+LGC,Đầu tư Cầu đường CII,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,LGC - Đầu tư Cầu đường CII
+LGC,Đầu tư Cầu đường CII,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,LGC - Đầu tư Cầu đường CII
+LGC,Đầu tư Cầu đường CII,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,LGC - Đầu tư Cầu đường CII
+LGC,Đầu tư Cầu đường CII,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,LGC - Đầu tư Cầu đường CII
+LIX,Bột Giặt Lix,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2020,Healthy,0.75,LIX - Bột Giặt Lix
+LIX,Bột Giặt Lix,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2021,Healthy,0.75,LIX - Bột Giặt Lix
+LIX,Bột Giặt Lix,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2022,Healthy,0.75,LIX - Bột Giặt Lix
+LIX,Bột Giặt Lix,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2023,Healthy,0.75,LIX - Bột Giặt Lix
+LIX,Bột Giặt Lix,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2024,Healthy,0.75,LIX - Bột Giặt Lix
+LM8,LILAMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,LM8 - LILAMA 18
+LM8,LILAMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,LM8 - LILAMA 18
+LM8,LILAMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,LM8 - LILAMA 18
+LM8,LILAMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,At_Risk,0.25,LM8 - LILAMA 18
+LM8,LILAMA 18,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,LM8 - LILAMA 18
+LSS,Mía đường Lam Sơn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,At_Risk,0.25,LSS - Mía đường Lam Sơn
+LSS,Mía đường Lam Sơn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,At_Risk,0.25,LSS - Mía đường Lam Sơn
+LSS,Mía đường Lam Sơn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,At_Risk,0.25,LSS - Mía đường Lam Sơn
+LSS,Mía đường Lam Sơn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,At_Risk,0.25,LSS - Mía đường Lam Sơn
+LSS,Mía đường Lam Sơn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,High_Risk,0.0,LSS - Mía đường Lam Sơn
+MCM,Giống bò sữa Mộc Châu,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,Healthy,1.0,MCM - Giống bò sữa Mộc Châu
+MCM,Giống bò sữa Mộc Châu,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,Healthy,1.0,MCM - Giống bò sữa Mộc Châu
+MCP,In và Bao bì Mỹ Châu,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2020,Stable,0.5,MCP - In và Bao bì Mỹ Châu
+MCP,In và Bao bì Mỹ Châu,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2021,Healthy,0.75,MCP - In và Bao bì Mỹ Châu
+MCP,In và Bao bì Mỹ Châu,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2022,Stable,0.5,MCP - In và Bao bì Mỹ Châu
+MCP,In và Bao bì Mỹ Châu,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2023,Stable,0.5,MCP - In và Bao bì Mỹ Châu
+MCP,In và Bao bì Mỹ Châu,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2024,Healthy,1.0,MCP - In và Bao bì Mỹ Châu
+MDG,Xây dựng Miền Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,At_Risk,0.25,MDG - Xây dựng Miền Đông
+MDG,Xây dựng Miền Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,High_Risk,0.0,MDG - Xây dựng Miền Đông
+MDG,Xây dựng Miền Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Stable,0.5,MDG - Xây dựng Miền Đông
+MDG,Xây dựng Miền Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,At_Risk,0.25,MDG - Xây dựng Miền Đông
+MDG,Xây dựng Miền Đông,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,High_Risk,0.0,MDG - Xây dựng Miền Đông
+MHC,CTCP MHC,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2020,Stable,0.5,MHC - CTCP MHC
+MHC,CTCP MHC,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2021,At_Risk,0.25,MHC - CTCP MHC
+MHC,CTCP MHC,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2022,Stable,0.5,MHC - CTCP MHC
+MHC,CTCP MHC,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2023,At_Risk,0.25,MHC - CTCP MHC
+MHC,CTCP MHC,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2024,Stable,0.5,MHC - CTCP MHC
+MSH,May Sông Hồng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,Healthy,0.75,MSH - May Sông Hồng
+MSH,May Sông Hồng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,Stable,0.5,MSH - May Sông Hồng
+MSH,May Sông Hồng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Healthy,0.75,MSH - May Sông Hồng
+MSH,May Sông Hồng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Healthy,0.75,MSH - May Sông Hồng
+MSH,May Sông Hồng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,Stable,0.5,MSH - May Sông Hồng
+MSN,Tập đoàn Masan,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,High_Risk,0.0,MSN - Tập đoàn Masan
+MSN,Tập đoàn Masan,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,At_Risk,0.25,MSN - Tập đoàn Masan
+MSN,Tập đoàn Masan,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,At_Risk,0.25,MSN - Tập đoàn Masan
+MSN,Tập đoàn Masan,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,High_Risk,0.0,MSN - Tập đoàn Masan
+MSN,Tập đoàn Masan,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,High_Risk,0.0,MSN - Tập đoàn Masan
+MWG,Thế giới di động,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,At_Risk,0.25,MWG - Thế giới di động
+MWG,Thế giới di động,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Stable,0.5,MWG - Thế giới di động
+MWG,Thế giới di động,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,MWG - Thế giới di động
+MWG,Thế giới di động,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,At_Risk,0.25,MWG - Thế giới di động
+MWG,Thế giới di động,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,At_Risk,0.25,MWG - Thế giới di động
+NAF,Nafoods Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2020,At_Risk,0.25,NAF - Nafoods Group
+NAF,Nafoods Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2021,At_Risk,0.25,NAF - Nafoods Group
+NAF,Nafoods Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2022,Stable,0.5,NAF - Nafoods Group
+NAF,Nafoods Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2023,Stable,0.5,NAF - Nafoods Group
+NAF,Nafoods Group,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2024,At_Risk,0.25,NAF - Nafoods Group
+NAV,Tấm lợp và gỗ Nam Việt,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,NAV - Tấm lợp và gỗ Nam Việt
+NAV,Tấm lợp và gỗ Nam Việt,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Stable,0.5,NAV - Tấm lợp và gỗ Nam Việt
+NAV,Tấm lợp và gỗ Nam Việt,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Healthy,1.0,NAV - Tấm lợp và gỗ Nam Việt
+NAV,Tấm lợp và gỗ Nam Việt,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Healthy,0.75,NAV - Tấm lợp và gỗ Nam Việt
+NAV,Tấm lợp và gỗ Nam Việt,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,1.0,NAV - Tấm lợp và gỗ Nam Việt
+NCG,Nova Consumer,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,NCG - Nova Consumer
+NCG,Nova Consumer,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Stable,0.5,NCG - Nova Consumer
+NCG,Nova Consumer,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,NCG - Nova Consumer
+NCT,DV Hàng hóa Nội Bài,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Healthy,1.0,NCT - DV Hàng hóa Nội Bài
+NCT,DV Hàng hóa Nội Bài,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Healthy,1.0,NCT - DV Hàng hóa Nội Bài
+NCT,DV Hàng hóa Nội Bài,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Healthy,1.0,NCT - DV Hàng hóa Nội Bài
+NCT,DV Hàng hóa Nội Bài,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,Healthy,0.75,NCT - DV Hàng hóa Nội Bài
+NCT,DV Hàng hóa Nội Bài,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,1.0,NCT - DV Hàng hóa Nội Bài
+NHA,PT Nhà và Đô thị Nam HN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Healthy,0.75,NHA - PT Nhà và Đô thị Nam HN
+NHA,PT Nhà và Đô thị Nam HN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,NHA - PT Nhà và Đô thị Nam HN
+NHA,PT Nhà và Đô thị Nam HN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,NHA - PT Nhà và Đô thị Nam HN
+NHA,PT Nhà và Đô thị Nam HN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,NHA - PT Nhà và Đô thị Nam HN
+NHA,PT Nhà và Đô thị Nam HN,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,NHA - PT Nhà và Đô thị Nam HN
+NHH,Nhựa Hà Nội,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,At_Risk,0.25,NHH - Nhựa Hà Nội
+NHH,Nhựa Hà Nội,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,NHH - Nhựa Hà Nội
+NHH,Nhựa Hà Nội,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,NHH - Nhựa Hà Nội
+NHH,Nhựa Hà Nội,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,NHH - Nhựa Hà Nội
+NHH,Nhựa Hà Nội,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Stable,0.5,NHH - Nhựa Hà Nội
+NHT,Sản xuất và Thương mại Nam Hoa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Đồ chơi,2020,At_Risk,0.25,NHT - Sản xuất và Thương mại Nam Hoa
+NHT,Sản xuất và Thương mại Nam Hoa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Đồ chơi,2021,At_Risk,0.25,NHT - Sản xuất và Thương mại Nam Hoa
+NHT,Sản xuất và Thương mại Nam Hoa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Đồ chơi,2022,Healthy,0.75,NHT - Sản xuất và Thương mại Nam Hoa
+NHT,Sản xuất và Thương mại Nam Hoa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Đồ chơi,2023,At_Risk,0.25,NHT - Sản xuất và Thương mại Nam Hoa
+NHT,Sản xuất và Thương mại Nam Hoa,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Đồ chơi,2024,High_Risk,0.0,NHT - Sản xuất và Thương mại Nam Hoa
+NKG,Thép Nam Kim,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,At_Risk,0.25,NKG - Thép Nam Kim
+NKG,Thép Nam Kim,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,Stable,0.5,NKG - Thép Nam Kim
+NKG,Thép Nam Kim,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,NKG - Thép Nam Kim
+NKG,Thép Nam Kim,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,NKG - Thép Nam Kim
+NKG,Thép Nam Kim,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,At_Risk,0.25,NKG - Thép Nam Kim
+NNC,Đá Núi Nhỏ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Healthy,0.75,NNC - Đá Núi Nhỏ
+NNC,Đá Núi Nhỏ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Healthy,0.75,NNC - Đá Núi Nhỏ
+NNC,Đá Núi Nhỏ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Stable,0.5,NNC - Đá Núi Nhỏ
+NNC,Đá Núi Nhỏ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,NNC - Đá Núi Nhỏ
+NNC,Đá Núi Nhỏ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,Healthy,0.75,NNC - Đá Núi Nhỏ
+NO1,Tâp đoàn 911,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2020,Stable,0.5,NO1 - Tâp đoàn 911
+NO1,Tâp đoàn 911,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2021,Stable,0.5,NO1 - Tâp đoàn 911
+NO1,Tâp đoàn 911,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2022,At_Risk,0.25,NO1 - Tâp đoàn 911
+NO1,Tâp đoàn 911,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2023,At_Risk,0.25,NO1 - Tâp đoàn 911
+NO1,Tâp đoàn 911,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2024,Stable,0.5,NO1 - Tâp đoàn 911
+NSC,Tập đoàn Giống cây trồng Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,Stable,0.5,NSC - Tập đoàn Giống cây trồng Việt Nam
+NSC,Tập đoàn Giống cây trồng Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Stable,0.5,NSC - Tập đoàn Giống cây trồng Việt Nam
+NSC,Tập đoàn Giống cây trồng Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,NSC - Tập đoàn Giống cây trồng Việt Nam
+NSC,Tập đoàn Giống cây trồng Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Stable,0.5,NSC - Tập đoàn Giống cây trồng Việt Nam
+NSC,Tập đoàn Giống cây trồng Việt Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,Healthy,0.75,NSC - Tập đoàn Giống cây trồng Việt Nam
+NT2,Điện lực Nhơn Trạch 2,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Stable,0.5,NT2 - Điện lực Nhơn Trạch 2
+NT2,Điện lực Nhơn Trạch 2,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Stable,0.5,NT2 - Điện lực Nhơn Trạch 2
+NT2,Điện lực Nhơn Trạch 2,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Healthy,0.75,NT2 - Điện lực Nhơn Trạch 2
+NT2,Điện lực Nhơn Trạch 2,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,At_Risk,0.25,NT2 - Điện lực Nhơn Trạch 2
+NT2,Điện lực Nhơn Trạch 2,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,At_Risk,0.25,NT2 - Điện lực Nhơn Trạch 2
+OPC,Dược phẩm OPC,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Healthy,0.75,OPC - Dược phẩm OPC
+OPC,Dược phẩm OPC,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Healthy,0.75,OPC - Dược phẩm OPC
+OPC,Dược phẩm OPC,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Healthy,0.75,OPC - Dược phẩm OPC
+OPC,Dược phẩm OPC,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Stable,0.5,OPC - Dược phẩm OPC
+OPC,Dược phẩm OPC,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Healthy,0.75,OPC - Dược phẩm OPC
+PAC,Pin Ắc quy Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2020,Stable,0.5,PAC - Pin Ắc quy Miền Nam
+PAC,Pin Ắc quy Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2021,Stable,0.5,PAC - Pin Ắc quy Miền Nam
+PAC,Pin Ắc quy Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2022,Stable,0.5,PAC - Pin Ắc quy Miền Nam
+PAC,Pin Ắc quy Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2023,At_Risk,0.25,PAC - Pin Ắc quy Miền Nam
+PAC,Pin Ắc quy Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2024,Stable,0.5,PAC - Pin Ắc quy Miền Nam
+PAN,Tập đoàn PAN,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,At_Risk,0.25,PAN - Tập đoàn PAN
+PAN,Tập đoàn PAN,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,At_Risk,0.25,PAN - Tập đoàn PAN
+PAN,Tập đoàn PAN,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,Stable,0.5,PAN - Tập đoàn PAN
+PAN,Tập đoàn PAN,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,At_Risk,0.25,PAN - Tập đoàn PAN
+PAN,Tập đoàn PAN,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,At_Risk,0.25,PAN - Tập đoàn PAN
+PC1,Tập đoàn PC1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,PC1 - Tập đoàn PC1
+PC1,Tập đoàn PC1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,PC1 - Tập đoàn PC1
+PC1,Tập đoàn PC1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,PC1 - Tập đoàn PC1
+PC1,Tập đoàn PC1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,PC1 - Tập đoàn PC1
+PC1,Tập đoàn PC1,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,PC1 - Tập đoàn PC1
+PDN,Cảng Đồng Nai,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Stable,0.5,PDN - Cảng Đồng Nai
+PDN,Cảng Đồng Nai,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Stable,0.5,PDN - Cảng Đồng Nai
+PDN,Cảng Đồng Nai,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Stable,0.5,PDN - Cảng Đồng Nai
+PDN,Cảng Đồng Nai,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,Stable,0.5,PDN - Cảng Đồng Nai
+PDN,Cảng Đồng Nai,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,1.0,PDN - Cảng Đồng Nai
+PET,Dịch vụ Tổng hợp Dầu khí,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,At_Risk,0.25,PET - Dịch vụ Tổng hợp Dầu khí
+PET,Dịch vụ Tổng hợp Dầu khí,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Healthy,0.75,PET - Dịch vụ Tổng hợp Dầu khí
+PET,Dịch vụ Tổng hợp Dầu khí,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,PET - Dịch vụ Tổng hợp Dầu khí
+PET,Dịch vụ Tổng hợp Dầu khí,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,At_Risk,0.25,PET - Dịch vụ Tổng hợp Dầu khí
+PET,Dịch vụ Tổng hợp Dầu khí,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,At_Risk,0.25,PET - Dịch vụ Tổng hợp Dầu khí
+PGC,Gas Petrolimex,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Stable,0.5,PGC - Gas Petrolimex
+PGC,Gas Petrolimex,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,At_Risk,0.25,PGC - Gas Petrolimex
+PGC,Gas Petrolimex,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,At_Risk,0.25,PGC - Gas Petrolimex
+PGC,Gas Petrolimex,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,At_Risk,0.25,PGC - Gas Petrolimex
+PGC,Gas Petrolimex,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,At_Risk,0.25,PGC - Gas Petrolimex
+PGD,PV GAS D,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Stable,0.5,PGD - PV GAS D
+PGD,PV GAS D,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,At_Risk,0.25,PGD - PV GAS D
+PGD,PV GAS D,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,Healthy,0.75,PGD - PV GAS D
+PGD,PV GAS D,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,At_Risk,0.25,PGD - PV GAS D
+PGD,PV GAS D,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,Stable,0.5,PGD - PV GAS D
+PGV,Tổng Công ty Phát điện 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,At_Risk,0.25,PGV - Tổng Công ty Phát điện 3
+PGV,Tổng Công ty Phát điện 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,High_Risk,0.0,PGV - Tổng Công ty Phát điện 3
+PGV,Tổng Công ty Phát điện 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,At_Risk,0.25,PGV - Tổng Công ty Phát điện 3
+PGV,Tổng Công ty Phát điện 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,High_Risk,0.0,PGV - Tổng Công ty Phát điện 3
+PGV,Tổng Công ty Phát điện 3,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,High_Risk,0.0,PGV - Tổng Công ty Phát điện 3
+PHC,Phuc Hung Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,PHC - Phuc Hung Holdings
+PHC,Phuc Hung Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,PHC - Phuc Hung Holdings
+PHC,Phuc Hung Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,PHC - Phuc Hung Holdings
+PHC,Xây dựng Phục Hưng Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,PHC - Xây dựng Phục Hưng Holdings
+PHC,Xây dựng Phục Hưng Holdings,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,PHC - Xây dựng Phục Hưng Holdings
+PHR,Cao su Phước Hòa,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Stable,0.5,PHR - Cao su Phước Hòa
+PHR,Cao su Phước Hòa,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,At_Risk,0.25,PHR - Cao su Phước Hòa
+PHR,Cao su Phước Hòa,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,PHR - Cao su Phước Hòa
+PHR,Cao su Phước Hòa,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,Stable,0.5,PHR - Cao su Phước Hòa
+PHR,Cao su Phước Hòa,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Healthy,0.75,PHR - Cao su Phước Hòa
+PIT,XNK PETROLIMEX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2020,High_Risk,0.0,PIT - XNK PETROLIMEX
+PIT,XNK PETROLIMEX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2021,At_Risk,0.25,PIT - XNK PETROLIMEX
+PIT,XNK PETROLIMEX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2022,High_Risk,0.0,PIT - XNK PETROLIMEX
+PIT,XNK PETROLIMEX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2023,At_Risk,0.25,PIT - XNK PETROLIMEX
+PIT,XNK PETROLIMEX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp,2024,Stable,0.5,PIT - XNK PETROLIMEX
+PJT,Vận tải thủy PETROLIMEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,Stable,0.5,PJT - Vận tải thủy PETROLIMEX
+PJT,Vận tải thủy PETROLIMEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Stable,0.5,PJT - Vận tải thủy PETROLIMEX
+PJT,Vận tải thủy PETROLIMEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Stable,0.5,PJT - Vận tải thủy PETROLIMEX
+PJT,Vận tải thủy PETROLIMEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,At_Risk,0.25,PJT - Vận tải thủy PETROLIMEX
+PJT,Vận tải thủy PETROLIMEX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Stable,0.5,PJT - Vận tải thủy PETROLIMEX
+PLP,SX và CN Nhựa Pha Lê,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,At_Risk,0.25,PLP - SX và CN Nhựa Pha Lê
+PLP,SX và CN Nhựa Pha Lê,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,PLP - SX và CN Nhựa Pha Lê
+PLP,SX và CN Nhựa Pha Lê,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,High_Risk,0.0,PLP - SX và CN Nhựa Pha Lê
+PLP,SX và CN Nhựa Pha Lê,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,High_Risk,0.0,PLP - SX và CN Nhựa Pha Lê
+PLP,SX và CN Nhựa Pha Lê,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,High_Risk,0.0,PLP - SX và CN Nhựa Pha Lê
+PMG,ĐT và SX Petro Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,At_Risk,0.25,PMG - ĐT và SX Petro Miền Trung
+PMG,ĐT và SX Petro Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,High_Risk,0.0,PMG - ĐT và SX Petro Miền Trung
+PMG,ĐT và SX Petro Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,Stable,0.5,PMG - ĐT và SX Petro Miền Trung
+PMG,ĐT và SX Petro Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,High_Risk,0.0,PMG - ĐT và SX Petro Miền Trung
+PMG,ĐT và SX Petro Miền Trung,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,At_Risk,0.25,PMG - ĐT và SX Petro Miền Trung
+PNC,Văn hóa Phương Nam,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa",2020,High_Risk,0.0,PNC - Văn hóa Phương Nam
+PNC,Văn hóa Phương Nam,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa",2021,At_Risk,0.25,PNC - Văn hóa Phương Nam
+PNC,Văn hóa Phương Nam,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa",2022,At_Risk,0.25,PNC - Văn hóa Phương Nam
+PNC,Văn hóa Phương Nam,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa",2023,High_Risk,0.0,PNC - Văn hóa Phương Nam
+PNC,Văn hóa Phương Nam,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa",2024,High_Risk,0.0,PNC - Văn hóa Phương Nam
+PNJ,Vàng Phú Nhuận,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2020,Healthy,1.0,PNJ - Vàng Phú Nhuận
+PNJ,Vàng Phú Nhuận,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2021,Healthy,0.75,PNJ - Vàng Phú Nhuận
+PNJ,Vàng Phú Nhuận,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2022,Healthy,1.0,PNJ - Vàng Phú Nhuận
+PNJ,Vàng Phú Nhuận,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2023,Healthy,1.0,PNJ - Vàng Phú Nhuận
+PNJ,Vàng Phú Nhuận,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân,2024,Stable,0.5,PNJ - Vàng Phú Nhuận
+POM,Thép Pomina,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,High_Risk,0.0,POM - Thép Pomina
+POM,Thép Pomina,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,High_Risk,0.0,POM - Thép Pomina
+POM,Thép Pomina,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,POM - Thép Pomina
+POW,Điện lực Dầu khí Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,At_Risk,0.25,POW - Điện lực Dầu khí Việt Nam
+POW,Điện lực Dầu khí Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,At_Risk,0.25,POW - Điện lực Dầu khí Việt Nam
+POW,Điện lực Dầu khí Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,At_Risk,0.25,POW - Điện lực Dầu khí Việt Nam
+POW,Điện lực Dầu khí Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,At_Risk,0.25,POW - Điện lực Dầu khí Việt Nam
+POW,Điện lực Dầu khí Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,At_Risk,0.25,POW - Điện lực Dầu khí Việt Nam
+PPC,Nhiệt điện Phả Lại,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Healthy,1.0,PPC - Nhiệt điện Phả Lại
+PPC,Nhiệt điện Phả Lại,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Stable,0.5,PPC - Nhiệt điện Phả Lại
+PPC,Nhiệt điện Phả Lại,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,PPC - Nhiệt điện Phả Lại
+PPC,Nhiệt điện Phả Lại,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,PPC - Nhiệt điện Phả Lại
+PPC,Nhiệt điện Phả Lại,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,PPC - Nhiệt điện Phả Lại
+PSH,TMại ĐT Dầu khí Nam Sông Hậu,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,High_Risk,0.0,PSH - TMại ĐT Dầu khí Nam Sông Hậu
+PSH,TMại ĐT Dầu khí Nam Sông Hậu,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,High_Risk,0.0,PSH - TMại ĐT Dầu khí Nam Sông Hậu
+PSH,TMại ĐT Dầu khí Nam Sông Hậu,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,At_Risk,0.25,PSH - TMại ĐT Dầu khí Nam Sông Hậu
+PSH,TMại ĐT Dầu khí Nam Sông Hậu,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,High_Risk,0.0,PSH - TMại ĐT Dầu khí Nam Sông Hậu
+PSH,TMại ĐT Dầu khí Nam Sông Hậu,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,At_Risk,0.25,PSH - TMại ĐT Dầu khí Nam Sông Hậu
+PTB,Công ty Cổ phần Phú Tài,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2020,Stable,0.5,PTB - Công ty Cổ phần Phú Tài
+PTB,Công ty Cổ phần Phú Tài,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2021,Stable,0.5,PTB - Công ty Cổ phần Phú Tài
+PTB,Công ty Cổ phần Phú Tài,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2022,At_Risk,0.25,PTB - Công ty Cổ phần Phú Tài
+PTB,Công ty Cổ phần Phú Tài,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2023,At_Risk,0.25,PTB - Công ty Cổ phần Phú Tài
+PTB,Công ty Cổ phần Phú Tài,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2024,Healthy,0.75,PTB - Công ty Cổ phần Phú Tài
+PTC,Đầu tư ICAPITAL,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Healthy,0.75,PTC - Đầu tư ICAPITAL
+PTC,Đầu tư ICAPITAL,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Stable,0.5,PTC - Đầu tư ICAPITAL
+PTC,Đầu tư ICAPITAL,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,PTC - Đầu tư ICAPITAL
+PTC,Đầu tư ICAPITAL,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,PTC - Đầu tư ICAPITAL
+PTC,Đầu tư ICAPITAL,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,PTC - Đầu tư ICAPITAL
+PVP,Vận tải Dầu khí Thái Bình Dương,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2020,Stable,0.5,PVP - Vận tải Dầu khí Thái Bình Dương
+PVP,Vận tải Dầu khí Thái Bình Dương,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2021,Stable,0.5,PVP - Vận tải Dầu khí Thái Bình Dương
+PVP,Vận tải Dầu khí Thái Bình Dương,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2022,Stable,0.5,PVP - Vận tải Dầu khí Thái Bình Dương
+PVP,Vận tải Dầu khí Thái Bình Dương,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2023,At_Risk,0.25,PVP - Vận tải Dầu khí Thái Bình Dương
+PVP,Vận tải Dầu khí Thái Bình Dương,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2024,Stable,0.5,PVP - Vận tải Dầu khí Thái Bình Dương
+PVT,Vận tải Dầu khí PVTrans,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,Stable,0.5,PVT - Vận tải Dầu khí PVTrans
+PVT,Vận tải Dầu khí PVTrans,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Stable,0.5,PVT - Vận tải Dầu khí PVTrans
+PVT,Vận tải Dầu khí PVTrans,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Stable,0.5,PVT - Vận tải Dầu khí PVTrans
+PVT,Vận tải Dầu khí PVTrans,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,At_Risk,0.25,PVT - Vận tải Dầu khí PVTrans
+PVT,Vận tải Dầu khí PVTrans,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Stable,0.5,PVT - Vận tải Dầu khí PVTrans
+QBS,Xuất nhập khẩu Quảng Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,High_Risk,0.0,QBS - Xuất nhập khẩu Quảng Bình
+QBS,Xuất nhập khẩu Quảng Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,Stable,0.5,QBS - Xuất nhập khẩu Quảng Bình
+QBS,Xuất nhập khẩu Quảng Bình,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,Stable,0.5,QBS - Xuất nhập khẩu Quảng Bình
+QNP,Cảng Quy Nhơn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,Stable,0.5,QNP - Cảng Quy Nhơn
+QNP,Cảng Quy Nhơn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,1.0,QNP - Cảng Quy Nhơn
+RAL,Bóng đèn Phích nước Rạng Đông,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2020,Stable,0.5,RAL - Bóng đèn Phích nước Rạng Đông
+RAL,Bóng đèn Phích nước Rạng Đông,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2021,At_Risk,0.25,RAL - Bóng đèn Phích nước Rạng Đông
+RAL,Bóng đèn Phích nước Rạng Đông,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2022,At_Risk,0.25,RAL - Bóng đèn Phích nước Rạng Đông
+RAL,Bóng đèn Phích nước Rạng Đông,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2023,Healthy,0.75,RAL - Bóng đèn Phích nước Rạng Đông
+RAL,Bóng đèn Phích nước Rạng Đông,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng,2024,At_Risk,0.25,RAL - Bóng đèn Phích nước Rạng Đông
+RDP,Nhựa Rạng Đông,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,At_Risk,0.25,RDP - Nhựa Rạng Đông
+RDP,Nhựa Rạng Đông,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,Stable,0.5,RDP - Nhựa Rạng Đông
+RDP,Nhựa Rạng Đông,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,RDP - Nhựa Rạng Đông
+RDP,Nhựa Rạng Đông,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,High_Risk,0.0,RDP - Nhựa Rạng Đông
+REE,Cơ Điện Lạnh REE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2020,Stable,0.5,REE - Cơ Điện Lạnh REE
+REE,Cơ Điện Lạnh REE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2021,Stable,0.5,REE - Cơ Điện Lạnh REE
+REE,Cơ Điện Lạnh REE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2022,Stable,0.5,REE - Cơ Điện Lạnh REE
+REE,Cơ Điện Lạnh REE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,REE - Cơ Điện Lạnh REE
+REE,Cơ Điện Lạnh REE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,REE - Cơ Điện Lạnh REE
+RYG,Sản xuất và Đầu tư Hoàng Gia,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,RYG - Sản xuất và Đầu tư Hoàng Gia
+RYG,Sản xuất và Đầu tư Hoàng Gia,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,High_Risk,0.0,RYG - Sản xuất và Đầu tư Hoàng Gia
+S4A,Thủy điện Sê San 4A,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Stable,0.5,S4A - Thủy điện Sê San 4A
+S4A,Thủy điện Sê San 4A,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Stable,0.5,S4A - Thủy điện Sê San 4A
+S4A,Thủy điện Sê San 4A,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,S4A - Thủy điện Sê San 4A
+S4A,Thủy điện Sê San 4A,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,S4A - Thủy điện Sê San 4A
+S4A,Thủy điện Sê San 4A,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,S4A - Thủy điện Sê San 4A
+SAB,SABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2020,Healthy,0.75,SAB - SABECO
+SAB,SABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2021,Healthy,0.75,SAB - SABECO
+SAB,SABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2022,Healthy,0.75,SAB - SABECO
+SAB,SABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2023,Healthy,0.75,SAB - SABECO
+SAB,SABECO,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2024,Healthy,0.75,SAB - SABECO
+SAM,SAM Holdings,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2020,,,SAM - SAM Holdings
+SAM,SAM Holdings,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2021,,,SAM - SAM Holdings
+SAM,SAM Holdings,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2022,,,SAM - SAM Holdings
+SAM,SAM Holdings,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2023,,,SAM - SAM Holdings
+SAM,SAM Holdings,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông,2024,,,SAM - SAM Holdings
+SAV,Savimex,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2020,Healthy,0.75,SAV - Savimex
+SAV,Savimex,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2021,Stable,0.5,SAV - Savimex
+SAV,Savimex,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2022,At_Risk,0.25,SAV - Savimex
+SAV,Savimex,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2023,High_Risk,0.0,SAV - Savimex
+SAV,Savimex,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2024,Healthy,0.75,SAV - Savimex
+SBA,Sông Ba JSC,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Stable,0.5,SBA - Sông Ba JSC
+SBA,Sông Ba JSC,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Stable,0.5,SBA - Sông Ba JSC
+SBA,Sông Ba JSC,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,SBA - Sông Ba JSC
+SBA,Sông Ba JSC,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,SBA - Sông Ba JSC
+SBA,Sông Ba JSC,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,SBA - Sông Ba JSC
+SBG,Tập Đoàn Cơ Khí Công Nghệ Cao Siba,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Công nghiệp phức hợp,2023,At_Risk,0.25,SBG - Tập Đoàn Cơ Khí Công Nghệ Cao Siba
+SBG,Tập Đoàn Cơ Khí Công Nghệ Cao Siba,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Công nghiệp phức hợp,2024,Stable,0.5,SBG - Tập Đoàn Cơ Khí Công Nghệ Cao Siba
+SBT,Mía đường Thành Thành Công - Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,High_Risk,0.0,SBT - Mía đường Thành Thành Công - Biên Hòa
+SBT,Mía đường Thành Thành Công - Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,High_Risk,0.0,SBT - Mía đường Thành Thành Công - Biên Hòa
+SBT,Mía đường Thành Thành Công - Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,High_Risk,0.0,SBT - Mía đường Thành Thành Công - Biên Hòa
+SBT,Mía đường Thành Thành Công - Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,High_Risk,0.0,SBT - Mía đường Thành Thành Công - Biên Hòa
+SBT,Mía đường Thành Thành Công - Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,At_Risk,0.25,SBT - Mía đường Thành Thành Công - Biên Hòa
+SBV,Siam Brothers Việt Nam,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2020,Stable,0.5,SBV - Siam Brothers Việt Nam
+SBV,Siam Brothers Việt Nam,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2021,Stable,0.5,SBV - Siam Brothers Việt Nam
+SBV,Siam Brothers Việt Nam,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2022,At_Risk,0.25,SBV - Siam Brothers Việt Nam
+SBV,Siam Brothers Việt Nam,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2023,At_Risk,0.25,SBV - Siam Brothers Việt Nam
+SBV,Siam Brothers Việt Nam,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng,2024,At_Risk,0.25,SBV - Siam Brothers Việt Nam
+SC5,Xây dựng Số 5,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,SC5 - Xây dựng Số 5
+SC5,Xây dựng Số 5,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,SC5 - Xây dựng Số 5
+SC5,Xây dựng Số 5,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,At_Risk,0.25,SC5 - Xây dựng Số 5
+SC5,Xây dựng Số 5,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,Stable,0.5,SC5 - Xây dựng Số 5
+SC5,Xây dựng Số 5,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,SC5 - Xây dựng Số 5
+SCD,Giải khát Chương Dương,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2020,Stable,0.5,SCD - Giải khát Chương Dương
+SCD,Giải khát Chương Dương,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2021,At_Risk,0.25,SCD - Giải khát Chương Dương
+SCD,Giải khát Chương Dương,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2022,High_Risk,0.0,SCD - Giải khát Chương Dương
+SCS,DV Hàng hóa Sài Gòn,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2020,Healthy,0.75,SCS - DV Hàng hóa Sài Gòn
+SCS,DV Hàng hóa Sài Gòn,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2021,Healthy,0.75,SCS - DV Hàng hóa Sài Gòn
+SCS,DV Hàng hóa Sài Gòn,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2022,Healthy,0.75,SCS - DV Hàng hóa Sài Gòn
+SCS,DV Hàng hóa Sài Gòn,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2023,Stable,0.5,SCS - DV Hàng hóa Sài Gòn
+SCS,DV Hàng hóa Sài Gòn,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2024,Stable,0.5,SCS - DV Hàng hóa Sài Gòn
+SFC,Nhiên liệu Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Healthy,0.75,SFC - Nhiên liệu Sài Gòn
+SFC,Nhiên liệu Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,Stable,0.5,SFC - Nhiên liệu Sài Gòn
+SFC,Nhiên liệu Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,Stable,0.5,SFC - Nhiên liệu Sài Gòn
+SFC,Nhiên liệu Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,Healthy,0.75,SFC - Nhiên liệu Sài Gòn
+SFC,Nhiên liệu Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,Stable,0.5,SFC - Nhiên liệu Sài Gòn
+SFG,Phân bón Miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,SFG - Phân bón Miền Nam
+SFG,Phân bón Miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,At_Risk,0.25,SFG - Phân bón Miền Nam
+SFG,Phân bón Miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,At_Risk,0.25,SFG - Phân bón Miền Nam
+SFG,Phân bón Miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,At_Risk,0.25,SFG - Phân bón Miền Nam
+SFG,Phân bón Miền Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Stable,0.5,SFG - Phân bón Miền Nam
+SFI,Vận tải SAFI,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,Healthy,0.75,SFI - Vận tải SAFI
+SFI,Vận tải SAFI,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Healthy,0.75,SFI - Vận tải SAFI
+SFI,Vận tải SAFI,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Healthy,0.75,SFI - Vận tải SAFI
+SFI,Vận tải SAFI,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,Healthy,0.75,SFI - Vận tải SAFI
+SFI,Vận tải SAFI,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Healthy,1.0,SFI - Vận tải SAFI
+SGN,Phục vụ mặt đất Sài Gòn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Healthy,0.75,SGN - Phục vụ mặt đất Sài Gòn
+SGN,Phục vụ mặt đất Sài Gòn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Stable,0.5,SGN - Phục vụ mặt đất Sài Gòn
+SGN,Phục vụ mặt đất Sài Gòn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Healthy,1.0,SGN - Phục vụ mặt đất Sài Gòn
+SGN,Phục vụ mặt đất Sài Gòn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,Healthy,0.75,SGN - Phục vụ mặt đất Sài Gòn
+SGN,Phục vụ mặt đất Sài Gòn,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Healthy,1.0,SGN - Phục vụ mặt đất Sài Gòn
+SGT,Sài Gòn Telecom,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Internet,2020,,,SGT - Sài Gòn Telecom
+SGT,Sài Gòn Telecom,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Internet,2021,,,SGT - Sài Gòn Telecom
+SGT,Sài Gòn Telecom,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Internet,2022,,,SGT - Sài Gòn Telecom
+SGT,Sài Gòn Telecom,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Internet,2023,,,SGT - Sài Gòn Telecom
+SGT,Sài Gòn Telecom,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Internet,2024,,,SGT - Sài Gòn Telecom
+SHA,Sơn Hà Sài Gòn,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,High_Risk,0.0,SHA - Sơn Hà Sài Gòn
+SHA,Sơn Hà Sài Gòn,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,High_Risk,0.0,SHA - Sơn Hà Sài Gòn
+SHA,Sơn Hà Sài Gòn,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,SHA - Sơn Hà Sài Gòn
+SHA,Sơn Hà Sài Gòn,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,SHA - Sơn Hà Sài Gòn
+SHA,Sơn Hà Sài Gòn,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,High_Risk,0.0,SHA - Sơn Hà Sài Gòn
+SHI,Quốc tế Sơn Hà,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,At_Risk,0.25,SHI - Quốc tế Sơn Hà
+SHI,Quốc tế Sơn Hà,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,At_Risk,0.25,SHI - Quốc tế Sơn Hà
+SHI,Quốc tế Sơn Hà,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,Stable,0.5,SHI - Quốc tế Sơn Hà
+SHI,Quốc tế Sơn Hà,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,SHI - Quốc tế Sơn Hà
+SHI,Quốc tế Sơn Hà,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,At_Risk,0.25,SHI - Quốc tế Sơn Hà
+SHP,Thủy điện Miền Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,At_Risk,0.25,SHP - Thủy điện Miền Nam
+SHP,Thủy điện Miền Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Stable,0.5,SHP - Thủy điện Miền Nam
+SHP,Thủy điện Miền Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,SHP - Thủy điện Miền Nam
+SHP,Thủy điện Miền Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,SHP - Thủy điện Miền Nam
+SHP,Thủy điện Miền Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Healthy,0.75,SHP - Thủy điện Miền Nam
+SJD,Thủy điện Cần Đơn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Healthy,0.75,SJD - Thủy điện Cần Đơn
+SJD,Thủy điện Cần Đơn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Healthy,0.75,SJD - Thủy điện Cần Đơn
+SJD,Thủy điện Cần Đơn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Healthy,0.75,SJD - Thủy điện Cần Đơn
+SJD,Thủy điện Cần Đơn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Healthy,0.75,SJD - Thủy điện Cần Đơn
+SJD,Thủy điện Cần Đơn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Healthy,0.75,SJD - Thủy điện Cần Đơn
+SJF,Đầu tư Sao Thái Dương,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,At_Risk,0.25,SJF - Đầu tư Sao Thái Dương
+SJF,Đầu tư Sao Thái Dương,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,High_Risk,0.0,SJF - Đầu tư Sao Thái Dương
+SJF,Đầu tư Sao Thái Dương,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,At_Risk,0.25,SJF - Đầu tư Sao Thái Dương
+SKG,Tàu Cao tốc Superdong,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2020,Stable,0.5,SKG - Tàu Cao tốc Superdong
+SKG,Tàu Cao tốc Superdong,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2021,Stable,0.5,SKG - Tàu Cao tốc Superdong
+SKG,Tàu Cao tốc Superdong,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2022,Stable,0.5,SKG - Tàu Cao tốc Superdong
+SKG,Tàu Cao tốc Superdong,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2023,Healthy,0.75,SKG - Tàu Cao tốc Superdong
+SKG,Tàu Cao tốc Superdong,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2024,Stable,0.5,SKG - Tàu Cao tốc Superdong
+SMA,Thiết bị Phụ tùng Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,High_Risk,0.0,SMA - Thiết bị Phụ tùng Sài Gòn
+SMA,Thiết bị Phụ tùng Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,At_Risk,0.25,SMA - Thiết bị Phụ tùng Sài Gòn
+SMA,Thiết bị Phụ tùng Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,At_Risk,0.25,SMA - Thiết bị Phụ tùng Sài Gòn
+SMA,Thiết bị Phụ tùng Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,SMA - Thiết bị Phụ tùng Sài Gòn
+SMA,Thiết bị Phụ tùng Sài Gòn,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Healthy,0.75,SMA - Thiết bị Phụ tùng Sài Gòn
+SMB,Bia Sài Gòn - Miền Trung,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2020,Healthy,0.75,SMB - Bia Sài Gòn - Miền Trung
+SMB,Bia Sài Gòn - Miền Trung,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2021,Healthy,0.75,SMB - Bia Sài Gòn - Miền Trung
+SMB,Bia Sài Gòn - Miền Trung,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2022,Healthy,0.75,SMB - Bia Sài Gòn - Miền Trung
+SMB,Bia Sài Gòn - Miền Trung,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2023,Healthy,0.75,SMB - Bia Sài Gòn - Miền Trung
+SMB,Bia Sài Gòn - Miền Trung,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia,2024,Healthy,0.75,SMB - Bia Sài Gòn - Miền Trung
+SMC,Đầu tư Thương mại SMC,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,At_Risk,0.25,SMC - Đầu tư Thương mại SMC
+SMC,Đầu tư Thương mại SMC,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,Stable,0.5,SMC - Đầu tư Thương mại SMC
+SMC,Đầu tư Thương mại SMC,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,SMC - Đầu tư Thương mại SMC
+SMC,Đầu tư Thương mại SMC,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,SMC - Đầu tư Thương mại SMC
+SMC,Đầu tư Thương mại SMC,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,At_Risk,0.25,SMC - Đầu tư Thương mại SMC
+SPM,S.P.M CORP,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Stable,0.5,SPM - S.P.M CORP
+SPM,S.P.M CORP,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,At_Risk,0.25,SPM - S.P.M CORP
+SPM,S.P.M CORP,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,At_Risk,0.25,SPM - S.P.M CORP
+SPM,S.P.M CORP,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Stable,0.5,SPM - S.P.M CORP
+SPM,S.P.M CORP,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Stable,0.5,SPM - S.P.M CORP
+SRC,Cao su Sao Vàng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2020,At_Risk,0.25,SRC - Cao su Sao Vàng
+SRC,Cao su Sao Vàng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2021,High_Risk,0.0,SRC - Cao su Sao Vàng
+SRC,Cao su Sao Vàng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2022,High_Risk,0.0,SRC - Cao su Sao Vàng
+SRC,Cao su Sao Vàng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2023,High_Risk,0.0,SRC - Cao su Sao Vàng
+SRC,Cao su Sao Vàng,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe,2024,At_Risk,0.25,SRC - Cao su Sao Vàng
+SRF,SEAREFICO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2020,High_Risk,0.0,SRF - SEAREFICO
+SRF,SEAREFICO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2021,High_Risk,0.0,SRF - SEAREFICO
+SRF,SEAREFICO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2022,High_Risk,0.0,SRF - SEAREFICO
+SRF,SEAREFICO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2023,At_Risk,0.25,SRF - SEAREFICO
+SRF,SEAREFICO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp,2024,High_Risk,0.0,SRF - SEAREFICO
+SSC,Giống cây trồng Miền Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,At_Risk,0.25,SSC - Giống cây trồng Miền Nam
+SSC,Giống cây trồng Miền Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Stable,0.5,SSC - Giống cây trồng Miền Nam
+SSC,Giống cây trồng Miền Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Stable,0.5,SSC - Giống cây trồng Miền Nam
+SSC,Giống cây trồng Miền Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Stable,0.5,SSC - Giống cây trồng Miền Nam
+SSC,Giống cây trồng Miền Nam,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,At_Risk,0.25,SSC - Giống cây trồng Miền Nam
+ST8,Đầu tư Phát triển ST8,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị văn phòng,2020,,,ST8 - Đầu tư Phát triển ST8
+ST8,Đầu tư Phát triển ST8,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị văn phòng,2021,,,ST8 - Đầu tư Phát triển ST8
+ST8,Đầu tư Phát triển ST8,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị văn phòng,2022,,,ST8 - Đầu tư Phát triển ST8
+ST8,Tập đoàn ST8,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị văn phòng,2023,,,ST8 - Tập đoàn ST8
+ST8,Tập đoàn ST8,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị văn phòng,2024,,,ST8 - Tập đoàn ST8
+STG,Kho Vận Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Stable,0.5,STG - Kho Vận Miền Nam
+STG,Kho Vận Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Healthy,0.75,STG - Kho Vận Miền Nam
+STG,Kho Vận Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Healthy,0.75,STG - Kho Vận Miền Nam
+STG,Kho Vận Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,At_Risk,0.25,STG - Kho Vận Miền Nam
+STG,Kho Vận Miền Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Stable,0.5,STG - Kho Vận Miền Nam
+STK,Sợi Thế Kỷ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,Stable,0.5,STK - Sợi Thế Kỷ
+STK,Sợi Thế Kỷ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,Stable,0.5,STK - Sợi Thế Kỷ
+STK,Sợi Thế Kỷ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Stable,0.5,STK - Sợi Thế Kỷ
+STK,Sợi Thế Kỷ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,At_Risk,0.25,STK - Sợi Thế Kỷ
+STK,Sợi Thế Kỷ,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,High_Risk,0.0,STK - Sợi Thế Kỷ
+SVC,SAVICO,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2020,Stable,0.5,SVC - SAVICO
+SVC,SAVICO,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2021,At_Risk,0.25,SVC - SAVICO
+SVC,SAVICO,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2022,Stable,0.5,SVC - SAVICO
+SVC,SAVICO,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2023,At_Risk,0.25,SVC - SAVICO
+SVC,SAVICO,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2024,At_Risk,0.25,SVC - SAVICO
+SVD,Đầu tư & Thương mại Vũ Đăng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,High_Risk,0.0,SVD - Đầu tư & Thương mại Vũ Đăng
+SVD,Đầu tư & Thương mại Vũ Đăng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,At_Risk,0.25,SVD - Đầu tư & Thương mại Vũ Đăng
+SVD,Đầu tư & Thương mại Vũ Đăng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Stable,0.5,SVD - Đầu tư & Thương mại Vũ Đăng
+SVD,Đầu tư & Thương mại Vũ Đăng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,At_Risk,0.25,SVD - Đầu tư & Thương mại Vũ Đăng
+SVD,Đầu tư & Thương mại Vũ Đăng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,At_Risk,0.25,SVD - Đầu tư & Thương mại Vũ Đăng
+SVI,Bao bì Biên Hòa,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2020,Healthy,0.75,SVI - Bao bì Biên Hòa
+SVI,Bao bì Biên Hòa,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2021,Healthy,0.75,SVI - Bao bì Biên Hòa
+SVI,Bao bì Biên Hòa,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2022,Healthy,0.75,SVI - Bao bì Biên Hòa
+SVI,Bao bì Biên Hòa,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2023,Stable,0.5,SVI - Bao bì Biên Hòa
+SVI,Bao bì Biên Hòa,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2024,Stable,0.5,SVI - Bao bì Biên Hòa
+SVT,Công nghệ SG Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2020,Healthy,0.75,SVT - Công nghệ SG Viễn Đông
+SVT,Công nghệ SG Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2021,Stable,0.5,SVT - Công nghệ SG Viễn Đông
+SVT,Công nghệ SG Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2022,Healthy,1.0,SVT - Công nghệ SG Viễn Đông
+SVT,Công nghệ SG Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2023,Healthy,0.75,SVT - Công nghệ SG Viễn Đông
+SVT,Công nghệ SG Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2024,Healthy,0.75,SVT - Công nghệ SG Viễn Đông
+TBC,Thủy điện Thác Bà,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Healthy,0.75,TBC - Thủy điện Thác Bà
+TBC,Thủy điện Thác Bà,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Healthy,0.75,TBC - Thủy điện Thác Bà
+TBC,Thủy điện Thác Bà,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Healthy,0.75,TBC - Thủy điện Thác Bà
+TBC,Thủy điện Thác Bà,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Healthy,0.75,TBC - Thủy điện Thác Bà
+TBC,Thủy điện Thác Bà,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,TBC - Thủy điện Thác Bà
+TCD,ĐT Phát triển CN và Vận tải,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,TCD - ĐT Phát triển CN và Vận tải
+TCD,ĐT Phát triển CN và Vận tải,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,TCD - ĐT Phát triển CN và Vận tải
+TCD,ĐT Phát triển CN và Vận tải,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,TCD - ĐT Phát triển CN và Vận tải
+TCD,Tập đoàn Xây dựng Tracodi,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,TCD - Tập đoàn Xây dựng Tracodi
+TCD,Tập đoàn Xây dựng Tracodi,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,TCD - Tập đoàn Xây dựng Tracodi
+TCL,Tan Cang Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2020,Healthy,0.75,TCL - Tan Cang Logistics
+TCL,Tan Cang Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2021,Healthy,0.75,TCL - Tan Cang Logistics
+TCL,Tan Cang Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2022,Healthy,0.75,TCL - Tan Cang Logistics
+TCL,Tan Cang Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2023,Stable,0.5,TCL - Tan Cang Logistics
+TCL,Tan Cang Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2024,Healthy,0.75,TCL - Tan Cang Logistics
+TCM,Dệt may Thành Công,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,Stable,0.5,TCM - Dệt may Thành Công
+TCM,Dệt may Thành Công,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,High_Risk,0.0,TCM - Dệt may Thành Công
+TCM,Dệt may Thành Công,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,Healthy,0.75,TCM - Dệt may Thành Công
+TCM,Dệt may Thành Công,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Stable,0.5,TCM - Dệt may Thành Công
+TCM,Dệt may Thành Công,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,At_Risk,0.25,TCM - Dệt may Thành Công
+TCO,Vận tải Duyên Hải,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2020,Healthy,0.75,TCO - Vận tải Duyên Hải
+TCO,Vận tải Duyên Hải,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2021,Healthy,0.75,TCO - Vận tải Duyên Hải
+TCO,Vận tải Duyên Hải,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2022,Healthy,1.0,TCO - Vận tải Duyên Hải
+TCO,TCO Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2023,High_Risk,0.0,TCO - TCO Holdings
+TCO,TCO Holdings,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2024,At_Risk,0.25,TCO - TCO Holdings
+TCR,Gốm sứ TAICERA,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,Stable,0.5,TCR - Gốm sứ TAICERA
+TCR,Gốm sứ TAICERA,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,Stable,0.5,TCR - Gốm sứ TAICERA
+TCR,Gốm sứ TAICERA,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,Stable,0.5,TCR - Gốm sứ TAICERA
+TCR,Gốm sứ TAICERA,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,Stable,0.5,TCR - Gốm sứ TAICERA
+TCR,Gốm sứ TAICERA,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,At_Risk,0.25,TCR - Gốm sứ TAICERA
+TCT,Cáp treo Tây Ninh,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2020,Stable,0.5,TCT - Cáp treo Tây Ninh
+TCT,Cáp treo Tây Ninh,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2021,Stable,0.5,TCT - Cáp treo Tây Ninh
+TCT,Cáp treo Tây Ninh,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2022,Healthy,0.75,TCT - Cáp treo Tây Ninh
+TCT,Cáp treo Tây Ninh,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2023,Stable,0.5,TCT - Cáp treo Tây Ninh
+TCT,Cáp treo Tây Ninh,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2024,Healthy,0.75,TCT - Cáp treo Tây Ninh
+TDG,Đầu tư TDG Global,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2020,Stable,0.5,TDG - Đầu tư TDG Global
+TDG,Đầu tư TDG Global,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2021,At_Risk,0.25,TDG - Đầu tư TDG Global
+TDG,Đầu tư TDG Global,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2022,Stable,0.5,TDG - Đầu tư TDG Global
+TDG,Đầu tư TDG Global,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2023,At_Risk,0.25,TDG - Đầu tư TDG Global
+TDG,Đầu tư TDG Global,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt,2024,Stable,0.5,TDG - Đầu tư TDG Global
+TDM,Nước Thủ Dầu Một,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2020,Stable,0.5,TDM - Nước Thủ Dầu Một
+TDM,Nước Thủ Dầu Một,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2021,Stable,0.5,TDM - Nước Thủ Dầu Một
+TDM,Nước Thủ Dầu Một,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2022,At_Risk,0.25,TDM - Nước Thủ Dầu Một
+TDM,Nước Thủ Dầu Một,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2023,Stable,0.5,TDM - Nước Thủ Dầu Một
+TDM,Nước Thủ Dầu Một,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2024,Stable,0.5,TDM - Nước Thủ Dầu Một
+TDP,Công ty Thuận Đức,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2020,High_Risk,0.0,TDP - Công ty Thuận Đức
+TDP,Công ty Thuận Đức,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2021,At_Risk,0.25,TDP - Công ty Thuận Đức
+TDP,Công ty Thuận Đức,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2022,At_Risk,0.25,TDP - Công ty Thuận Đức
+TDP,Công ty Thuận Đức,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2023,At_Risk,0.25,TDP - Công ty Thuận Đức
+TDP,Công ty Thuận Đức,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói,2024,Stable,0.5,TDP - Công ty Thuận Đức
+TDW,Cấp nước Thủ Đức,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2020,At_Risk,0.25,TDW - Cấp nước Thủ Đức
+TDW,Cấp nước Thủ Đức,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2021,Healthy,0.75,TDW - Cấp nước Thủ Đức
+TDW,Cấp nước Thủ Đức,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2022,Healthy,0.75,TDW - Cấp nước Thủ Đức
+TDW,Cấp nước Thủ Đức,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2023,Healthy,0.75,TDW - Cấp nước Thủ Đức
+TDW,Cấp nước Thủ Đức,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước,2024,Stable,0.5,TDW - Cấp nước Thủ Đức
+TGG,The Golden Group,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,TGG - The Golden Group
+TGG,The Golden Group,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Healthy,0.75,TGG - The Golden Group
+TGG,The Golden Group,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Stable,0.5,TGG - The Golden Group
+THG,XD Tiền Giang,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Stable,0.5,THG - XD Tiền Giang
+THG,XD Tiền Giang,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Stable,0.5,THG - XD Tiền Giang
+THG,XD Tiền Giang,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Stable,0.5,THG - XD Tiền Giang
+THG,XD Tiền Giang,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,Stable,0.5,THG - XD Tiền Giang
+THG,XD Tiền Giang,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,Stable,0.5,THG - XD Tiền Giang
+TLG,Tập đoàn Thiên Long,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng một lần,2020,Healthy,0.75,TLG - Tập đoàn Thiên Long
+TLG,Tập đoàn Thiên Long,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng một lần,2021,Healthy,0.75,TLG - Tập đoàn Thiên Long
+TLG,Tập đoàn Thiên Long,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng một lần,2022,Healthy,1.0,TLG - Tập đoàn Thiên Long
+TLG,Tập đoàn Thiên Long,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng một lần,2023,Healthy,1.0,TLG - Tập đoàn Thiên Long
+TLG,Tập đoàn Thiên Long,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng một lần,2024,Healthy,0.75,TLG - Tập đoàn Thiên Long
+TLH,Thép Tiến Lên,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,Stable,0.5,TLH - Thép Tiến Lên
+TLH,Thép Tiến Lên,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,At_Risk,0.25,TLH - Thép Tiến Lên
+TLH,Thép Tiến Lên,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,TLH - Thép Tiến Lên
+TLH,Thép Tiến Lên,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,TLH - Thép Tiến Lên
+TLH,Thép Tiến Lên,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,At_Risk,0.25,TLH - Thép Tiến Lên
+TMP,Thủy điện Thác Mơ,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,Healthy,0.75,TMP - Thủy điện Thác Mơ
+TMP,Thủy điện Thác Mơ,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,Healthy,0.75,TMP - Thủy điện Thác Mơ
+TMP,Thủy điện Thác Mơ,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Healthy,0.75,TMP - Thủy điện Thác Mơ
+TMP,Thủy điện Thác Mơ,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Healthy,0.75,TMP - Thủy điện Thác Mơ
+TMP,Thủy điện Thác Mơ,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Healthy,0.75,TMP - Thủy điện Thác Mơ
+TMS,Transimex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Healthy,0.75,TMS - Transimex
+TMS,Transimex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Healthy,0.75,TMS - Transimex
+TMS,Transimex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Stable,0.5,TMS - Transimex
+TMS,Transimex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,High_Risk,0.0,TMS - Transimex
+TMS,Transimex,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,At_Risk,0.25,TMS - Transimex
+TMT,Ô tô TMT,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2020,High_Risk,0.0,TMT - Ô tô TMT
+TMT,Ô tô TMT,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2021,High_Risk,0.0,TMT - Ô tô TMT
+TMT,Ô tô TMT,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2022,At_Risk,0.25,TMT - Ô tô TMT
+TMT,Ô tô TMT,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2023,At_Risk,0.25,TMT - Ô tô TMT
+TMT,Ô tô TMT,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô,2024,Stable,0.5,TMT - Ô tô TMT
+TNA,XNK Thiên Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,At_Risk,0.25,TNA - XNK Thiên Nam
+TNA,XNK Thiên Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,Stable,0.5,TNA - XNK Thiên Nam
+TNA,XNK Thiên Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,Stable,0.5,TNA - XNK Thiên Nam
+TNC,Cao su Thống Nhất,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Healthy,0.75,TNC - Cao su Thống Nhất
+TNC,Cao su Thống Nhất,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,Stable,0.5,TNC - Cao su Thống Nhất
+TNC,Cao su Thống Nhất,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,Stable,0.5,TNC - Cao su Thống Nhất
+TNC,Cao su Thống Nhất,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,Stable,0.5,TNC - Cao su Thống Nhất
+TNC,Cao su Thống Nhất,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Healthy,0.75,TNC - Cao su Thống Nhất
+TNH,Bệnh viện Quốc tế Thái Nguyên,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế,2020,Stable,0.5,TNH - Bệnh viện Quốc tế Thái Nguyên
+TNH,Bệnh viện Quốc tế Thái Nguyên,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế,2021,Stable,0.5,TNH - Bệnh viện Quốc tế Thái Nguyên
+TNH,Bệnh viện Quốc tế Thái Nguyên,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế,2022,Stable,0.5,TNH - Bệnh viện Quốc tế Thái Nguyên
+TNH,Tập đoàn Bệnh viện TNH,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế,2023,At_Risk,0.25,TNH - Tập đoàn Bệnh viện TNH
+TNH,Tập đoàn Bệnh viện TNH,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế,2024,At_Risk,0.25,TNH - Tập đoàn Bệnh viện TNH
+TNI,Tập đoàn Thành Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,Stable,0.5,TNI - Tập đoàn Thành Nam
+TNI,Tập đoàn Thành Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,At_Risk,0.25,TNI - Tập đoàn Thành Nam
+TNI,Tập đoàn Thành Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,TNI - Tập đoàn Thành Nam
+TNI,Tập đoàn Thành Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,TNI - Tập đoàn Thành Nam
+TNI,Tập đoàn Thành Nam,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,At_Risk,0.25,TNI - Tập đoàn Thành Nam
+TNT,Tập đoàn TNT,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2020,Stable,0.5,TNT - Tập đoàn TNT
+TNT,Tập đoàn TNT,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2021,At_Risk,0.25,TNT - Tập đoàn TNT
+TNT,Tập đoàn TNT,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2022,Healthy,0.75,TNT - Tập đoàn TNT
+TNT,Tập đoàn TNT,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2023,Stable,0.5,TNT - Tập đoàn TNT
+TNT,Tập đoàn TNT,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2024,Healthy,0.75,TNT - Tập đoàn TNT
+TPC,Nhựa Tân Đại Hưng,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,At_Risk,0.25,TPC - Nhựa Tân Đại Hưng
+TPC,Nhựa Tân Đại Hưng,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,At_Risk,0.25,TPC - Nhựa Tân Đại Hưng
+TPC,Nhựa Tân Đại Hưng,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,TPC - Nhựa Tân Đại Hưng
+TPC,Nhựa Tân Đại Hưng,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,High_Risk,0.0,TPC - Nhựa Tân Đại Hưng
+TPC,Nhựa Tân Đại Hưng,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,At_Risk,0.25,TPC - Nhựa Tân Đại Hưng
+TRA,Traphaco,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Healthy,0.75,TRA - Traphaco
+TRA,Traphaco,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Healthy,0.75,TRA - Traphaco
+TRA,Traphaco,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Healthy,0.75,TRA - Traphaco
+TRA,Traphaco,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,Stable,0.5,TRA - Traphaco
+TRA,Traphaco,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Healthy,0.75,TRA - Traphaco
+TRC,Cao su Tây Ninh,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2020,Stable,0.5,TRC - Cao su Tây Ninh
+TRC,Cao su Tây Ninh,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2021,High_Risk,0.0,TRC - Cao su Tây Ninh
+TRC,Cao su Tây Ninh,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2022,At_Risk,0.25,TRC - Cao su Tây Ninh
+TRC,Cao su Tây Ninh,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2023,At_Risk,0.25,TRC - Cao su Tây Ninh
+TRC,Cao su Tây Ninh,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi",2024,Stable,0.5,TRC - Cao su Tây Ninh
+TSC,Kỹ thuật NN Cần Thơ,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,TSC - Kỹ thuật NN Cần Thơ
+TSC,Kỹ thuật NN Cần Thơ,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,At_Risk,0.25,TSC - Kỹ thuật NN Cần Thơ
+TSC,Kỹ thuật NN Cần Thơ,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,At_Risk,0.25,TSC - Kỹ thuật NN Cần Thơ
+TSC,Kỹ thuật NN Cần Thơ,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,At_Risk,0.25,TSC - Kỹ thuật NN Cần Thơ
+TSC,Kỹ thuật NN Cần Thơ,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Stable,0.5,TSC - Kỹ thuật NN Cần Thơ
+TTA,XD và PT Trường Thành,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,High_Risk,0.0,TTA - XD và PT Trường Thành
+TTA,XD và PT Trường Thành,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,High_Risk,0.0,TTA - XD và PT Trường Thành
+TTA,XD và PT Trường Thành,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,High_Risk,0.0,TTA - XD và PT Trường Thành
+TTA,XD và PT Trường Thành,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,At_Risk,0.25,TTA - XD và PT Trường Thành
+TTA,XD và PT Trường Thành,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,TTA - XD và PT Trường Thành
+TTB,Tập đoàn Tiến Bộ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,High_Risk,0.0,TTB - Tập đoàn Tiến Bộ
+TTB,Tập đoàn Tiến Bộ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,At_Risk,0.25,TTB - Tập đoàn Tiến Bộ
+TTB,Tập đoàn Tiến Bộ,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,At_Risk,0.25,TTB - Tập đoàn Tiến Bộ
+TTE,ĐT Năng lượng Trường Thịnh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,High_Risk,0.0,TTE - ĐT Năng lượng Trường Thịnh
+TTE,ĐT Năng lượng Trường Thịnh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,High_Risk,0.0,TTE - ĐT Năng lượng Trường Thịnh
+TTE,ĐT Năng lượng Trường Thịnh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,At_Risk,0.25,TTE - ĐT Năng lượng Trường Thịnh
+TTE,ĐT Năng lượng Trường Thịnh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,High_Risk,0.0,TTE - ĐT Năng lượng Trường Thịnh
+TTE,ĐT Năng lượng Trường Thịnh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,At_Risk,0.25,TTE - ĐT Năng lượng Trường Thịnh
+TTF,Gỗ Trường Thành,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2020,At_Risk,0.25,TTF - Gỗ Trường Thành
+TTF,Gỗ Trường Thành,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2021,High_Risk,0.0,TTF - Gỗ Trường Thành
+TTF,Gỗ Trường Thành,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2022,High_Risk,0.0,TTF - Gỗ Trường Thành
+TTF,Gỗ Trường Thành,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2023,High_Risk,0.0,TTF - Gỗ Trường Thành
+TTF,Gỗ Trường Thành,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ,2024,High_Risk,0.0,TTF - Gỗ Trường Thành
+TV2,Tư vấn XD Điện 2,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2020,Stable,0.5,TV2 - Tư vấn XD Điện 2
+TV2,Tư vấn XD Điện 2,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2021,At_Risk,0.25,TV2 - Tư vấn XD Điện 2
+TV2,Tư vấn XD Điện 2,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2022,At_Risk,0.25,TV2 - Tư vấn XD Điện 2
+TV2,Tư vấn XD Điện 2,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2023,High_Risk,0.0,TV2 - Tư vấn XD Điện 2
+TV2,Tư vấn XD Điện 2,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD,2024,At_Risk,0.25,TV2 - Tư vấn XD Điện 2
+TVT,May Việt Thắng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2020,At_Risk,0.25,TVT - May Việt Thắng
+TVT,May Việt Thắng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2021,At_Risk,0.25,TVT - May Việt Thắng
+TVT,May Việt Thắng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2022,At_Risk,0.25,TVT - May Việt Thắng
+TVT,May Việt Thắng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2023,Stable,0.5,TVT - May Việt Thắng
+TVT,May Việt Thắng,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc,2024,At_Risk,0.25,TVT - May Việt Thắng
+TYA,Dây và Cáp điện Taya,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2020,Healthy,0.75,TYA - Dây và Cáp điện Taya
+TYA,Dây và Cáp điện Taya,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2021,At_Risk,0.25,TYA - Dây và Cáp điện Taya
+TYA,Dây và Cáp điện Taya,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2022,Stable,0.5,TYA - Dây và Cáp điện Taya
+TYA,Dây và Cáp điện Taya,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2023,At_Risk,0.25,TYA - Dây và Cáp điện Taya
+TYA,Dây và Cáp điện Taya,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2024,Healthy,0.75,TYA - Dây và Cáp điện Taya
+UIC,Phát triển Nhà và Đô thị IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,Healthy,0.75,UIC - Phát triển Nhà và Đô thị IDICO
+UIC,Phát triển Nhà và Đô thị IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,Healthy,0.75,UIC - Phát triển Nhà và Đô thị IDICO
+UIC,Phát triển Nhà và Đô thị IDICO,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,Healthy,0.75,UIC - Phát triển Nhà và Đô thị IDICO
+UIC,Phát triển Nhà và Đô thị IDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Healthy,0.75,UIC - Phát triển Nhà và Đô thị IDICO
+UIC,Phát triển Nhà và Đô thị IDICO,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,UIC - Phát triển Nhà và Đô thị IDICO
+VAF,Phân lân Văn Điển,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,VAF - Phân lân Văn Điển
+VAF,Phân lân Văn Điển,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,At_Risk,0.25,VAF - Phân lân Văn Điển
+VAF,Phân lân Văn Điển,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,Healthy,0.75,VAF - Phân lân Văn Điển
+VAF,Phân lân Văn Điển,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,Stable,0.5,VAF - Phân lân Văn Điển
+VAF,Phân lân Văn Điển,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Stable,0.5,VAF - Phân lân Văn Điển
+VCA,Thép VICASA - VNSTEEL,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2020,Healthy,0.75,VCA - Thép VICASA - VNSTEEL
+VCA,Thép VICASA - VNSTEEL,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2021,At_Risk,0.25,VCA - Thép VICASA - VNSTEEL
+VCA,Thép VICASA - VNSTEEL,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2022,At_Risk,0.25,VCA - Thép VICASA - VNSTEEL
+VCA,Thép VICASA - VNSTEEL,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2023,High_Risk,0.0,VCA - Thép VICASA - VNSTEEL
+VCA,Thép VICASA - VNSTEEL,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép,2024,Stable,0.5,VCA - Thép VICASA - VNSTEEL
+VCF,VinaCafé Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2020,Healthy,1.0,VCF - VinaCafé Biên Hòa
+VCF,VinaCafé Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2021,Healthy,0.75,VCF - VinaCafé Biên Hòa
+VCF,VinaCafé Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2022,Healthy,0.75,VCF - VinaCafé Biên Hòa
+VCF,VinaCafé Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2023,Healthy,0.75,VCF - VinaCafé Biên Hòa
+VCF,VinaCafé Biên Hòa,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát,2024,Healthy,0.75,VCF - VinaCafé Biên Hòa
+VCG,VINACONEX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,VCG - VINACONEX
+VCG,VINACONEX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,VCG - VINACONEX
+VCG,VINACONEX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,VCG - VINACONEX
+VCG,VINACONEX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,VCG - VINACONEX
+VCG,VINACONEX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,At_Risk,0.25,VCG - VINACONEX
+VDP,Dược phẩm VIDIPHA,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,At_Risk,0.25,VDP - Dược phẩm VIDIPHA
+VDP,Dược phẩm VIDIPHA,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,Stable,0.5,VDP - Dược phẩm VIDIPHA
+VDP,Dược phẩm VIDIPHA,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,Stable,0.5,VDP - Dược phẩm VIDIPHA
+VDP,Dược phẩm VIDIPHA,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,At_Risk,0.25,VDP - Dược phẩm VIDIPHA
+VDP,Dược phẩm VIDIPHA,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,Stable,0.5,VDP - Dược phẩm VIDIPHA
+VFG,Khử trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,Stable,0.5,VFG - Khử trùng Việt Nam
+VFG,Khử trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,At_Risk,0.25,VFG - Khử trùng Việt Nam
+VFG,Khử trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,At_Risk,0.25,VFG - Khử trùng Việt Nam
+VFG,Khử trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,At_Risk,0.25,VFG - Khử trùng Việt Nam
+VFG,Khử trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Healthy,0.75,VFG - Khử trùng Việt Nam
+VGC,Tổng Công ty Viglacera,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2020,High_Risk,0.0,VGC - Tổng Công ty Viglacera
+VGC,Tổng Công ty Viglacera,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2021,High_Risk,0.0,VGC - Tổng Công ty Viglacera
+VGC,Tổng Công ty Viglacera,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2022,At_Risk,0.25,VGC - Tổng Công ty Viglacera
+VGC,Tổng Công ty Viglacera,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2023,High_Risk,0.0,VGC - Tổng Công ty Viglacera
+VGC,Tổng Công ty Viglacera,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất,2024,At_Risk,0.25,VGC - Tổng Công ty Viglacera
+VHC,Thủy sản Vĩnh Hoàn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2020,Healthy,0.75,VHC - Thủy sản Vĩnh Hoàn
+VHC,Thủy sản Vĩnh Hoàn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2021,Stable,0.5,VHC - Thủy sản Vĩnh Hoàn
+VHC,Thủy sản Vĩnh Hoàn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2022,Healthy,0.75,VHC - Thủy sản Vĩnh Hoàn
+VHC,Thủy sản Vĩnh Hoàn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2023,Stable,0.5,VHC - Thủy sản Vĩnh Hoàn
+VHC,Thủy sản Vĩnh Hoàn,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản,2024,Healthy,0.75,VHC - Thủy sản Vĩnh Hoàn
+VID,Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2020,At_Risk,0.25,VID - Viễn Đông
+VID,Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2021,High_Risk,0.0,VID - Viễn Đông
+VID,Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2022,At_Risk,0.25,VID - Viễn Đông
+VID,Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2023,At_Risk,0.25,VID - Viễn Đông
+VID,Viễn Đông,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy,2024,At_Risk,0.25,VID - Viễn Đông
+VIP,Vận tải Xăng dầu VIPCO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,Stable,0.5,VIP - Vận tải Xăng dầu VIPCO
+VIP,Vận tải Xăng dầu VIPCO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Stable,0.5,VIP - Vận tải Xăng dầu VIPCO
+VIP,Vận tải Xăng dầu VIPCO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Healthy,0.75,VIP - Vận tải Xăng dầu VIPCO
+VIP,Vận tải Xăng dầu VIPCO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,Stable,0.5,VIP - Vận tải Xăng dầu VIPCO
+VIP,Vận tải Xăng dầu VIPCO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Stable,0.5,VIP - Vận tải Xăng dầu VIPCO
+VJC,Vietjet Air,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2020,High_Risk,0.0,VJC - Vietjet Air
+VJC,Vietjet Air,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2021,At_Risk,0.25,VJC - Vietjet Air
+VJC,Vietjet Air,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2022,High_Risk,0.0,VJC - Vietjet Air
+VJC,Vietjet Air,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2023,High_Risk,0.0,VJC - Vietjet Air
+VJC,Vietjet Air,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không,2024,At_Risk,0.25,VJC - Vietjet Air
+VMD,Y Dược phẩm Vimedimex,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2020,Stable,0.5,VMD - Y Dược phẩm Vimedimex
+VMD,Y Dược phẩm Vimedimex,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2021,At_Risk,0.25,VMD - Y Dược phẩm Vimedimex
+VMD,Y Dược phẩm Vimedimex,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2022,At_Risk,0.25,VMD - Y Dược phẩm Vimedimex
+VMD,Y Dược phẩm Vimedimex,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2023,At_Risk,0.25,VMD - Y Dược phẩm Vimedimex
+VMD,Y Dược phẩm Vimedimex,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm,2024,At_Risk,0.25,VMD - Y Dược phẩm Vimedimex
+VNE,Xây dựng điện Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,At_Risk,0.25,VNE - Xây dựng điện Việt Nam
+VNE,Xây dựng điện Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,High_Risk,0.0,VNE - Xây dựng điện Việt Nam
+VNE,Xây dựng điện Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,VNE - Xây dựng điện Việt Nam
+VNE,Xây dựng điện Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2023,High_Risk,0.0,VNE - Xây dựng điện Việt Nam
+VNE,Xây dựng điện Việt Nam,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2024,High_Risk,0.0,VNE - Xây dựng điện Việt Nam
+VNG,DL Thành Thành Công,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2020,At_Risk,0.25,VNG - DL Thành Thành Công
+VNG,DL Thành Thành Công,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2021,At_Risk,0.25,VNG - DL Thành Thành Công
+VNG,DL Thành Thành Công,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2022,High_Risk,0.0,VNG - DL Thành Thành Công
+VNG,DL Thành Thành Công,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2023,High_Risk,0.0,VNG - DL Thành Thành Công
+VNG,DL Thành Thành Công,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn,2024,At_Risk,0.25,VNG - DL Thành Thành Công
+VNL,Logistics Vinalink,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2020,Stable,0.5,VNL - Logistics Vinalink
+VNL,Logistics Vinalink,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2021,Healthy,0.75,VNL - Logistics Vinalink
+VNL,Logistics Vinalink,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2022,Healthy,1.0,VNL - Logistics Vinalink
+VNL,Vinalink Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2023,Healthy,0.75,VNL - Vinalink Logistics
+VNL,Vinalink Logistics,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải,2024,Healthy,1.0,VNL - Vinalink Logistics
+VNM,VINAMILK,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2020,Healthy,0.75,VNM - VINAMILK
+VNM,VINAMILK,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2021,Healthy,0.75,VNM - VINAMILK
+VNM,VINAMILK,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2022,Healthy,0.75,VNM - VINAMILK
+VNM,VINAMILK,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2023,Healthy,0.75,VNM - VINAMILK
+VNM,VINAMILK,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm,2024,Healthy,0.75,VNM - VINAMILK
+VNS,Ánh Dương Việt Nam,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2020,At_Risk,0.25,VNS - Ánh Dương Việt Nam
+VNS,Ánh Dương Việt Nam,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2021,At_Risk,0.25,VNS - Ánh Dương Việt Nam
+VNS,Ánh Dương Việt Nam,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2022,Stable,0.5,VNS - Ánh Dương Việt Nam
+VNS,Ánh Dương Việt Nam,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2023,Stable,0.5,VNS - Ánh Dương Việt Nam
+VNS,Ánh Dương Việt Nam,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch,2024,High_Risk,0.0,VNS - Ánh Dương Việt Nam
+VOS,Vận tải Biển Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,High_Risk,0.0,VOS - Vận tải Biển Việt Nam
+VOS,Vận tải Biển Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,At_Risk,0.25,VOS - Vận tải Biển Việt Nam
+VOS,Vận tải Biển Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,Healthy,0.75,VOS - Vận tải Biển Việt Nam
+VOS,Vận tải Biển Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,Stable,0.5,VOS - Vận tải Biển Việt Nam
+VOS,Vận tải Biển Việt Nam,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Healthy,1.0,VOS - Vận tải Biển Việt Nam
+VPD,Phát triển Điện lực Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,At_Risk,0.25,VPD - Phát triển Điện lực Việt Nam
+VPD,Phát triển Điện lực Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,At_Risk,0.25,VPD - Phát triển Điện lực Việt Nam
+VPD,Phát triển Điện lực Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,VPD - Phát triển Điện lực Việt Nam
+VPD,Phát triển Điện lực Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,VPD - Phát triển Điện lực Việt Nam
+VPD,Phát triển Điện lực Việt Nam,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,VPD - Phát triển Điện lực Việt Nam
+VPG,Đầu tư TMại XNK Việt Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2020,Stable,0.5,VPG - Đầu tư TMại XNK Việt Phát
+VPG,Đầu tư TMại XNK Việt Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2021,Stable,0.5,VPG - Đầu tư TMại XNK Việt Phát
+VPG,Đầu tư TMại XNK Việt Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2022,Healthy,0.75,VPG - Đầu tư TMại XNK Việt Phát
+VPG,Đầu tư TMại XNK Việt Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2023,At_Risk,0.25,VPG - Đầu tư TMại XNK Việt Phát
+VPG,Đầu tư TMại XNK Việt Phát,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2024,At_Risk,0.25,VPG - Đầu tư TMại XNK Việt Phát
+VPS,Thuốc sát trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2020,At_Risk,0.25,VPS - Thuốc sát trùng Việt Nam
+VPS,Thuốc sát trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2021,High_Risk,0.0,VPS - Thuốc sát trùng Việt Nam
+VPS,Thuốc sát trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2022,At_Risk,0.25,VPS - Thuốc sát trùng Việt Nam
+VPS,Thuốc sát trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2023,High_Risk,0.0,VPS - Thuốc sát trùng Việt Nam
+VPS,Thuốc sát trùng Việt Nam,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác",2024,Stable,0.5,VPS - Thuốc sát trùng Việt Nam
+VSC,VICONSHIP,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2020,Healthy,0.75,VSC - VICONSHIP
+VSC,VICONSHIP,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2021,Healthy,0.75,VSC - VICONSHIP
+VSC,VICONSHIP,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2022,Stable,0.5,VSC - VICONSHIP
+VSC,VICONSHIP,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2023,At_Risk,0.25,VSC - VICONSHIP
+VSC,VICONSHIP,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng",2024,Stable,0.5,VSC - VICONSHIP
+VSH,Thủy điện Vĩnh Sơn - Sông Hinh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2020,High_Risk,0.0,VSH - Thủy điện Vĩnh Sơn - Sông Hinh
+VSH,Thủy điện Vĩnh Sơn - Sông Hinh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2021,High_Risk,0.0,VSH - Thủy điện Vĩnh Sơn - Sông Hinh
+VSH,Thủy điện Vĩnh Sơn - Sông Hinh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2022,Stable,0.5,VSH - Thủy điện Vĩnh Sơn - Sông Hinh
+VSH,Thủy điện Vĩnh Sơn - Sông Hinh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2023,Stable,0.5,VSH - Thủy điện Vĩnh Sơn - Sông Hinh
+VSH,Thủy điện Vĩnh Sơn - Sông Hinh,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện,2024,Stable,0.5,VSH - Thủy điện Vĩnh Sơn - Sông Hinh
+VSI,Đầu tư và Xây dựng Cấp thoát nước,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2020,High_Risk,0.0,VSI - Đầu tư và Xây dựng Cấp thoát nước
+VSI,Đầu tư và Xây dựng Cấp thoát nước,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2021,At_Risk,0.25,VSI - Đầu tư và Xây dựng Cấp thoát nước
+VSI,Đầu tư và Xây dựng Cấp thoát nước,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng,2022,High_Risk,0.0,VSI - Đầu tư và Xây dựng Cấp thoát nước
+VTB,Viettronics Tân Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2020,Healthy,1.0,VTB - Viettronics Tân Bình
+VTB,Viettronics Tân Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2021,Stable,0.5,VTB - Viettronics Tân Bình
+VTB,Viettronics Tân Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2022,Healthy,1.0,VTB - Viettronics Tân Bình
+VTB,Viettronics Tân Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2023,At_Risk,0.25,VTB - Viettronics Tân Bình
+VTB,Viettronics Tân Bình,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử,2024,Stable,0.5,VTB - Viettronics Tân Bình
+VTO,VITACO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2020,At_Risk,0.25,VTO - VITACO
+VTO,VITACO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2021,Stable,0.5,VTO - VITACO
+VTO,VITACO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2022,At_Risk,0.25,VTO - VITACO
+VTO,VITACO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2023,At_Risk,0.25,VTO - VITACO
+VTO,VITACO,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy,2024,Healthy,0.75,VTO - VITACO
+VTP,Bưu chính Viettel,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Chuyển phát nhanh,2023,Stable,0.5,VTP - Bưu chính Viettel
+VTP,Bưu chính Viettel,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Chuyển phát nhanh,2024,Stable,0.5,VTP - Bưu chính Viettel
+YBM,Khoáng sản CN Yên Bái,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2020,High_Risk,0.0,YBM - Khoáng sản CN Yên Bái
+YBM,Khoáng sản CN Yên Bái,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2021,High_Risk,0.0,YBM - Khoáng sản CN Yên Bái
+YBM,Khoáng sản CN Yên Bái,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2022,At_Risk,0.25,YBM - Khoáng sản CN Yên Bái
+YBM,Khoáng sản CN Yên Bái,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2023,High_Risk,0.0,YBM - Khoáng sản CN Yên Bái
+YBM,Khoáng sản CN Yên Bái,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng,2024,At_Risk,0.25,YBM - Khoáng sản CN Yên Bái
+YEG,Tập đoàn Yeah1,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông,2020,At_Risk,0.25,YEG - Tập đoàn Yeah1
+YEG,Tập đoàn Yeah1,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông,2021,Healthy,0.75,YEG - Tập đoàn Yeah1
+YEG,Tập đoàn Yeah1,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông,2022,At_Risk,0.25,YEG - Tập đoàn Yeah1
+YEG,Tập đoàn Yeah1,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông,2023,At_Risk,0.25,YEG - Tập đoàn Yeah1
+YEG,Tập đoàn Yeah1,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông,2024,At_Risk,0.25,YEG - Tập đoàn Yeah1

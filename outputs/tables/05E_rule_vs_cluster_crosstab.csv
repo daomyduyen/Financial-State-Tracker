@@ -1,0 +1,5 @@
+﻿Financial_State_Rule,0,1,2
+At_Risk,1.0,0.0,0.0
+Healthy,1.0,0.0,0.0
+High_Risk,1.0,0.0,0.0
+Stable,0.995,0.002,0.002

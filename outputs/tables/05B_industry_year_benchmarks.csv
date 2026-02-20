@@ -1,0 +1,121 @@
+﻿Ngành ICB - cấp 1,Năm,Nhóm chỉ số,Indicator_Name,Benchmark_Mean,n_obs
+Công nghiệp,2020,Liquidity,Current_Ratio,2.2906857759571673,95
+Công nghiệp,2020,Leverage,Debt_Equity,1.4441946042693847,95
+Công nghiệp,2020,Efficiency,Asset_Turnover,0.8245868630657206,95
+Công nghiệp,2020,Profitability,ROA,0.05900834213211347,95
+Công nghiệp,2021,Liquidity,Current_Ratio,2.954311124818825,95
+Công nghiệp,2021,Leverage,Debt_Equity,1.3225637467152684,95
+Công nghiệp,2021,Efficiency,Asset_Turnover,0.7870214855656859,95
+Công nghiệp,2021,Profitability,ROA,0.06250454334670383,95
+Công nghiệp,2022,Liquidity,Quick_Ratio,2.8158854709305112,95
+Công nghiệp,2022,Leverage,Debt_Equity,1.3412420637749536,95
+Công nghiệp,2022,Efficiency,Asset_Turnover,0.8724084486666265,95
+Công nghiệp,2022,Profitability,ROA,0.059394742003049554,95
+Công nghiệp,2023,Liquidity,Quick_Ratio,2.7156699378243845,93
+Công nghiệp,2023,Leverage,Net_Leverage,-98.03340705894547,93
+Công nghiệp,2023,Efficiency,Asset_Turnover,0.7352779042260645,93
+Công nghiệp,2023,Profitability,ROA,0.05105894058223046,93
+Công nghiệp,2024,Liquidity,Quick_Ratio,2.482649930644762,93
+Công nghiệp,2024,Leverage,Debt_Equity,1.2897984818084192,93
+Công nghiệp,2024,Efficiency,Asset_Turnover,0.7895268868801196,93
+Công nghiệp,2024,Profitability,ROE,0.09024873735107355,93
+Dược phẩm và Y tế,2020,Liquidity,Quick_Ratio,2.29813661504309,14
+Dược phẩm và Y tế,2020,Leverage,Debt_Equity,2.1545140420474675,14
+Dược phẩm và Y tế,2020,Efficiency,Asset_Turnover,0.8035224012062615,14
+Dược phẩm và Y tế,2020,Profitability,ROE,0.09998391411847711,14
+Dược phẩm và Y tế,2021,Liquidity,Current_Ratio,2.6893211177176775,14
+Dược phẩm và Y tế,2021,Leverage,Net_Leverage,24.10750502902001,14
+Dược phẩm và Y tế,2021,Efficiency,Asset_Turnover,0.8137883085619332,14
+Dược phẩm và Y tế,2021,Profitability,ROE,0.10150101882087045,14
+Dược phẩm và Y tế,2022,Liquidity,Quick_Ratio,1.886406007846744,14
+Dược phẩm và Y tế,2022,Leverage,Net_Leverage,13.575799337935122,14
+Dược phẩm và Y tế,2022,Efficiency,Asset_Turnover,0.8665489193187096,14
+Dược phẩm và Y tế,2022,Profitability,ROA,0.07769253669357204,14
+Dược phẩm và Y tế,2023,Liquidity,Current_Ratio,2.9382934353098666,14
+Dược phẩm và Y tế,2023,Leverage,Debt_Equity,0.7124874398417124,14
+Dược phẩm và Y tế,2023,Efficiency,Fixed_Asset_Turnover,7.190950615372736,14
+Dược phẩm và Y tế,2023,Profitability,ROA,0.0746083869297589,14
+Dược phẩm và Y tế,2024,Liquidity,Current_Ratio,3.0647725503306726,14
+Dược phẩm và Y tế,2024,Leverage,Debt_Equity,0.655065598476631,14
+Dược phẩm và Y tế,2024,Efficiency,Asset_Turnover,0.7137608835290863,14
+Dược phẩm và Y tế,2024,Profitability,ROA,0.06634461421776924,14
+Dịch vụ Tiêu dùng,2020,Liquidity,Quick_Ratio,3.298555616836187,23
+Dịch vụ Tiêu dùng,2020,Leverage,Debt_Equity,1.4717079010921652,23
+Dịch vụ Tiêu dùng,2020,Efficiency,Fixed_Asset_Turnover,36.06529834794553,23
+Dịch vụ Tiêu dùng,2020,Profitability,ROA,0.028486725238176972,23
+Dịch vụ Tiêu dùng,2021,Liquidity,Quick_Ratio,4.084734368659067,23
+Dịch vụ Tiêu dùng,2021,Leverage,Debt_Equity,6.316034997655746,23
+Dịch vụ Tiêu dùng,2021,Efficiency,Fixed_Asset_Turnover,31.56987030103361,23
+Dịch vụ Tiêu dùng,2021,Profitability,ROA,0.018607516550036025,23
+Dịch vụ Tiêu dùng,2022,Liquidity,Quick_Ratio,3.986185388302881,23
+Dịch vụ Tiêu dùng,2022,Leverage,Debt_Equity,0.7386755456453796,23
+Dịch vụ Tiêu dùng,2022,Efficiency,Fixed_Asset_Turnover,30.661529949148793,23
+Dịch vụ Tiêu dùng,2022,Profitability,ROA,0.06371027642696159,23
+Dịch vụ Tiêu dùng,2023,Liquidity,Current_Ratio,4.31911490598797,22
+Dịch vụ Tiêu dùng,2023,Leverage,Debt_Equity,1.0897330782193906,22
+Dịch vụ Tiêu dùng,2023,Efficiency,Asset_Turnover,1.7193696479757086,22
+Dịch vụ Tiêu dùng,2023,Profitability,ROA,0.05695551757534914,22
+Dịch vụ Tiêu dùng,2024,Liquidity,Current_Ratio,6.639344943504951,22
+Dịch vụ Tiêu dùng,2024,Leverage,Net_Leverage,0.6728327314893364,22
+Dịch vụ Tiêu dùng,2024,Efficiency,Asset_Turnover,1.7586888383551027,22
+Dịch vụ Tiêu dùng,2024,Profitability,ROS,0.11099578309260738,22
+Hàng Tiêu dùng,2020,Liquidity,Current_Ratio,2.156357825859018,62
+Hàng Tiêu dùng,2020,Leverage,Debt_Equity,1.1720206183044233,62
+Hàng Tiêu dùng,2020,Efficiency,Asset_Turnover,1.2137193031944096,62
+Hàng Tiêu dùng,2020,Profitability,ROE,0.1173648243003733,62
+Hàng Tiêu dùng,2021,Liquidity,Current_Ratio,2.309400930892233,62
+Hàng Tiêu dùng,2021,Leverage,Debt_Equity,1.0770016239184752,62
+Hàng Tiêu dùng,2021,Efficiency,Asset_Turnover,1.123269623236477,62
+Hàng Tiêu dùng,2021,Profitability,ROE,0.11663854570664937,62
+Hàng Tiêu dùng,2022,Liquidity,Current_Ratio,2.4244988625509856,62
+Hàng Tiêu dùng,2022,Leverage,Debt_Equity,1.1629228222024428,62
+Hàng Tiêu dùng,2022,Efficiency,Asset_Turnover,1.1377117022051586,62
+Hàng Tiêu dùng,2022,Profitability,ROE,0.08402259672768429,62
+Hàng Tiêu dùng,2023,Liquidity,Current_Ratio,2.6512054231781748,60
+Hàng Tiêu dùng,2023,Leverage,Debt_Equity,1.889353334539591,60
+Hàng Tiêu dùng,2023,Efficiency,Asset_Turnover,0.9967585858677979,60
+Hàng Tiêu dùng,2023,Profitability,ROA,0.045530730676906564,60
+Hàng Tiêu dùng,2024,Liquidity,Current_Ratio,2.7881718809238736,60
+Hàng Tiêu dùng,2024,Leverage,Net_Leverage,2.5416549577105547,60
+Hàng Tiêu dùng,2024,Efficiency,Asset_Turnover,1.0208155251874707,60
+Hàng Tiêu dùng,2024,Profitability,ROA,0.04800216292279866,60
+Nguyên vật liệu,2020,Liquidity,Quick_Ratio,2.020365579595386,58
+Nguyên vật liệu,2020,Leverage,Debt_Equity,0.9688405400950912,58
+Nguyên vật liệu,2020,Efficiency,Asset_Turnover,1.1717800534061529,58
+Nguyên vật liệu,2020,Profitability,ROA,0.04867687966265489,58
+Nguyên vật liệu,2021,Liquidity,Current_Ratio,2.8550799569913026,58
+Nguyên vật liệu,2021,Leverage,Net_Leverage,-10.279703161926799,57
+Nguyên vật liệu,2021,Efficiency,Asset_Turnover,1.166134233390199,58
+Nguyên vật liệu,2021,Profitability,ROA,0.0710504744511789,58
+Nguyên vật liệu,2022,Liquidity,Current_Ratio,3.4088528842681773,58
+Nguyên vật liệu,2022,Leverage,Net_Leverage,0.5494170619621032,58
+Nguyên vật liệu,2022,Efficiency,Fixed_Asset_Turnover,77.16961999696728,58
+Nguyên vật liệu,2022,Profitability,ROE,0.04018444272829254,58
+Nguyên vật liệu,2023,Liquidity,Current_Ratio,2.929289383784237,54
+Nguyên vật liệu,2023,Leverage,Net_Leverage,-39.631071306846415,54
+Nguyên vật liệu,2023,Efficiency,Fixed_Asset_Turnover,457.8047374515229,54
+Nguyên vật liệu,2023,Profitability,ROA,0.029316890107583198,54
+Nguyên vật liệu,2024,Liquidity,Current_Ratio,3.599256490801834,53
+Nguyên vật liệu,2024,Leverage,Debt_Equity,1.2300265606133882,53
+Nguyên vật liệu,2024,Efficiency,Asset_Turnover,1.1406015362680149,53
+Nguyên vật liệu,2024,Profitability,ROA,0.04303963764936999,53
+Tiện ích Cộng đồng,2020,Liquidity,Quick_Ratio,1.985495035457069,34
+Tiện ích Cộng đồng,2020,Leverage,Debt_Equity,1.2587451783668246,34
+Tiện ích Cộng đồng,2020,Efficiency,Fixed_Asset_Turnover,5.735645615391144,34
+Tiện ích Cộng đồng,2020,Profitability,ROE,0.10030736658689715,34
+Tiện ích Cộng đồng,2021,Liquidity,Quick_Ratio,1.9159028331823331,34
+Tiện ích Cộng đồng,2021,Leverage,Debt_Equity,1.2296437347906848,34
+Tiện ích Cộng đồng,2021,Efficiency,Asset_Turnover,0.9288776242972483,34
+Tiện ích Cộng đồng,2021,Profitability,ROA,0.08056167427414385,34
+Tiện ích Cộng đồng,2022,Liquidity,Quick_Ratio,2.2219030154882353,34
+Tiện ích Cộng đồng,2022,Leverage,Net_Leverage,10.426167290022022,34
+Tiện ích Cộng đồng,2022,Efficiency,Asset_Turnover,1.1682682166418463,34
+Tiện ích Cộng đồng,2022,Profitability,ROA,0.10046453237715226,34
+Tiện ích Cộng đồng,2023,Liquidity,Current_Ratio,2.394152629773948,37
+Tiện ích Cộng đồng,2023,Leverage,Debt_Equity,1.217688463901021,37
+Tiện ích Cộng đồng,2023,Efficiency,Asset_Turnover,1.0773183099603747,37
+Tiện ích Cộng đồng,2023,Profitability,ROA,0.08015611400267086,37
+Tiện ích Cộng đồng,2024,Liquidity,Quick_Ratio,2.5304855899883636,37
+Tiện ích Cộng đồng,2024,Leverage,Net_Leverage,19.264324926863893,37
+Tiện ích Cộng đồng,2024,Efficiency,Asset_Turnover,1.078530995085925,37
+Tiện ích Cộng đồng,2024,Profitability,ROS,0.13270422457539366,37
